@@ -4,12 +4,12 @@ import APIdata from '../API.js'
 export default (event) => {
   // 深層複製
   const nutritionarr = JSON.parse(JSON.stringify(Nutrition))
-  const dataGet = false
+  let dataGet = false
   Nutrition.altText = '哈囉'
   const food = event.message.text.replace('查詢 ', '')
   for (let i = 0; i < APIdata.length; i++) {
     if (food === APIdata[i].name) {
-      // dataGet = true
+      dataGet = true
       nutritionarr.contents.body.contents.push(
         {
           type: 'text',
