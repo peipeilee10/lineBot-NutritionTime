@@ -6,6 +6,7 @@ export default (event) => {
   const nutritionarr = JSON.parse(JSON.stringify(Nutrition))
   let dataGet = false
   Nutrition.altText = '哈囉'
+  // 使用者傳的資料
   const food = event.message.text.replace('查詢 ', '')
   for (let i = 0; i < APIdata.length; i++) {
     if (food === APIdata[i].name) {
@@ -161,10 +162,9 @@ export default (event) => {
           ]
         }
       )
-      event.reply(nutritionarr)
     }
   }
 
-  // 如果有資料就console有資料，沒有就回傳
-  dataGet ? console.log('有資料') : event.reply('抱歉!尚未建立此資料')
+  // 如果有資料就console有資料，沒有就回傳尚未建立
+  dataGet ? event.reply(nutritionarr) : event.reply('抱歉!尚未建立此資料')
 }
