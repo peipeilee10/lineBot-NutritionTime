@@ -2,6 +2,7 @@ import 'dotenv/config'
 import linebot from 'linebot'
 import flexNutrition from './files/flex_nutrition.js'
 import flexDietMenu from './files/flex_dietMenu.js'
+import quickreply from './files/quickreply.js'
 
 // console.log(APIdata)
 
@@ -18,11 +19,11 @@ bot.listen('/', process.env.PORT || 3000, () => {
 })
 
 // 拿取資料
-// const nutrition = [];
 bot.on('message', (event) => {
   // console.log(event.message)
   if (event.message.type === 'text') {
     if (event.message.text.startsWith('查詢 ')) {
+      console.log('123')
       flexNutrition(event)
     } else if (event.message.text.startsWith('餐點 ')) {
       flexDietMenu(event)
@@ -31,7 +32,7 @@ bot.on('message', (event) => {
     } else if (event.message.text === '營養成分查詢') {
       event.reply('請輸入 查詢+半形空格+您要查的項目')
     } else if (event.message.text === '減脂餐推薦') {
-      event.reply('請輸入 餐點+半形空格+早餐/午餐/晚餐/點心')
+      quickreply(event)
     }
   }
 }

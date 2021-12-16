@@ -190,6 +190,6 @@ export default (event) => {
     )
   }
   event.reply(dietmenuarr)
-  console.log(dietmenuarr)
-  console.log(arr)
+  // console.log(dietmenuarr)
+  // console.log(arr)
 }
