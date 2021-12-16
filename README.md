@@ -29,24 +29,24 @@
 ## <a name="dietMenu"></a><b>食物營養成分查詢</b>
 Step 1 -
 點擊選單中的「營養成分查詢」按鈕<br>
-<img src="https://img.onl/pwBG6M" width=150> <br>
+<img src="./readmeimg/營養成分查詢.jpg" width=150> <br>
 Step 2 -
 機器人將會請您輸入「查詢+半形空格+要查的項目」<br>
 您再輸入您要查詢的項目，例如 查詢 山藥<br>
 機器人將會回復您「山藥」的營養成分資料<br>
-<img src="https://img.onl/CiqtE3" width=150>
+<img src="./readmeimg/查詢.jpg" width=150>
 
 
 ## <a name="nutritionSearch"></a><b>減脂菜單推薦</b>
 Step 1 -
 點擊選單中的「減脂餐推薦」按鈕<br>
-<img src="https://img.onl/Q6PckU" width=150> <br>
+<img src="./readmeimg/減脂餐查詢.jpg" width=150> <br>
 Step 2 -
 再點選 早餐/午餐/晚餐/點心 的按鈕<br>
-<img src="https://img.onl/HSjaGa" width=150> <br>
+<img src="./readmeimg/quickreply.jpg" width=150> <br>
 機器人將會依您點選的時段，回復您五個推薦的減脂菜單<br>
 *有早餐、午餐、晚餐及點心的菜單可以選唷~<br>
-<img src="https://img.onl/XiSBIK" width=150> 
+<img src="./readmeimg/餐點flex.jpg" width=150> 
 
 
 
@@ -56,7 +56,7 @@ Step 1 -
 點擊選單中的「TDEE計算」按鈕<br>
 Step 2 -
 您將前往TDEE計算的網站，即可計算您的TDEE<br>
-<img src="https://img.onl/0sxigy" width=150>
+<img src="./readmeimg/TDEE.jpg" width=150>
 
 ## <a name="reference"></a><b>資料來源</b>
 <a href="https://www.openapi.org.tw/#/">智慧城鄉生活應用發展計畫-食物資訊樣貌API<a>
