@@ -163,7 +163,7 @@ export default [
     unit: 'g',
     calories: 70,
     protein: 0.1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.2,
     carbohydrate: 17.1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem01102.png'
@@ -190,7 +190,7 @@ export default [
     calories: 74,
     protein: 0.3,
     dietaryFiber: 0.11,
-    fat: -999999,
+    fat: 0,
     carbohydrate: 18.3,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem01105.png'
   },
@@ -774,7 +774,7 @@ export default [
     unit: 'g',
     calories: 72,
     protein: 0.02,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.02,
     carbohydrate: 18,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem02501.png'
@@ -904,7 +904,7 @@ export default [
     unit: 'g',
     calories: 152,
     protein: 8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 8.6,
     carbohydrate: 10.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem02802.png'
@@ -917,7 +917,7 @@ export default [
     unit: 'cc',
     calories: 152,
     protein: 7.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 8.6,
     carbohydrate: 11.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem02801.png'
@@ -930,7 +930,7 @@ export default [
     unit: 'g',
     calories: 106,
     protein: 8.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 3,
     carbohydrate: 11.4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem02902.png'
@@ -943,7 +943,7 @@ export default [
     unit: 'cc',
     calories: 95,
     protein: 7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 2.9,
     carbohydrate: 10.3,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem02901.png'
@@ -956,7 +956,7 @@ export default [
     unit: 'g',
     calories: 176,
     protein: 6.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 4.9,
     carbohydrate: 27.3,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem03003.png'
@@ -969,7 +969,7 @@ export default [
     unit: 'g',
     calories: 92,
     protein: 3.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 3.3,
     carbohydrate: 12.4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem03001.png'
@@ -982,7 +982,7 @@ export default [
     unit: 'g',
     calories: 115,
     protein: 3.3,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 4.8,
     carbohydrate: 15.4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem03002.png'
@@ -995,7 +995,7 @@ export default [
     unit: 'g',
     calories: 134,
     protein: 8.1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 9.5,
     carbohydrate: 4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem03101.png'
@@ -1008,7 +1008,7 @@ export default [
     unit: 'g',
     calories: 83,
     protein: 7.6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 4.4,
     carbohydrate: 3.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem03102.png'
@@ -1021,7 +1021,7 @@ export default [
     unit: 'cc',
     calories: 125,
     protein: 3.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 3.1,
     carbohydrate: 20.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem03103.png'
@@ -1034,7 +1034,7 @@ export default [
     unit: 'g',
     calories: 99,
     protein: 2.3,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 5,
     carbohydrate: 11.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem03201.png'
@@ -1047,7 +1047,7 @@ export default [
     unit: 'g',
     calories: 97,
     protein: 1.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 4.7,
     carbohydrate: 12.7,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem03202.png'
@@ -1056,12 +1056,12 @@ export default [
     _id: '5b67bd7f872b64005c8895e4',
     name: '養樂多',
     flag: 'systemFood',
-    weight: -999999,
+    weight: 0,
     unit: '',
     calories: 163,
     protein: 2.6,
-    dietaryFiber: -999999,
-    fat: -999999,
+    dietaryFiber: 0,
+    fat: 0,
     carbohydrate: 39.1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem03203.png'
   },
@@ -1073,7 +1073,7 @@ export default [
     unit: 'g',
     calories: 54,
     protein: 0.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 3.3,
     carbohydrate: 6,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem03301.png'
@@ -1086,7 +1086,7 @@ export default [
     unit: 'g',
     calories: 45,
     protein: 0.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 1.6,
     carbohydrate: 7.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem03302.png'
@@ -1098,8 +1098,8 @@ export default [
     weight: 10,
     unit: 'g',
     calories: 28,
-    protein: -999999,
-    dietaryFiber: -999999,
+    protein: 0,
+    dietaryFiber: 0,
     fat: 2.4,
     carbohydrate: 1.6,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem03303.png'
@@ -1112,7 +1112,7 @@ export default [
     unit: 'g',
     calories: 102,
     protein: 7.3,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 7.7,
     carbohydrate: 1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem03401.png'
@@ -1125,7 +1125,7 @@ export default [
     unit: 'g',
     calories: 81,
     protein: 6.9,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 5.7,
     carbohydrate: 0.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem03402.png'
@@ -1138,7 +1138,7 @@ export default [
     unit: 'g',
     calories: 87,
     protein: 7.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 5.8,
     carbohydrate: 1.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem03403.png'
@@ -1151,7 +1151,7 @@ export default [
     unit: 'g',
     calories: 94,
     protein: 6.9,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 6.9,
     carbohydrate: 1.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem03404.png'
@@ -1164,7 +1164,7 @@ export default [
     unit: 'g',
     calories: 86,
     protein: 7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 6,
     carbohydrate: 1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem03405.png'
@@ -1177,7 +1177,7 @@ export default [
     unit: 'g',
     calories: 257,
     protein: 14.3,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 21.5,
     carbohydrate: 1.7,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem03501.png'
@@ -1190,7 +1190,7 @@ export default [
     unit: 'g',
     calories: 81,
     protein: 6.9,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 5.7,
     carbohydrate: 0.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem03502.png'
@@ -1203,7 +1203,7 @@ export default [
     unit: 'g',
     calories: 736,
     protein: 30.3,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 63.4,
     carbohydrate: 13.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem03503.png'
@@ -1368,7 +1368,7 @@ export default [
     _id: '5b67bd7f872b64005c8895fc',
     name: '豆奶',
     flag: 'systemFood',
-    weight: -999999,
+    weight: 0,
     unit: '',
     calories: 210,
     protein: 7,
@@ -1381,7 +1381,7 @@ export default [
     _id: '5b67bd7f872b64005c8895fd',
     name: '黑豆漿',
     flag: 'systemFood',
-    weight: -999999,
+    weight: 0,
     unit: '',
     calories: 234,
     protein: 6.8,
@@ -1394,7 +1394,7 @@ export default [
     _id: '5b67bd7f872b64005c8895fe',
     name: '豆漿',
     flag: 'systemFood',
-    weight: -999999,
+    weight: 0,
     unit: '',
     calories: 165,
     protein: 7,
@@ -1541,9 +1541,9 @@ export default [
     unit: 'g',
     calories: 60,
     protein: 6.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 3.6,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem04301.png'
   },
   {
@@ -1554,9 +1554,9 @@ export default [
     unit: 'g',
     calories: 87,
     protein: 7.3,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 6.2,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem04302.png'
   },
   {
@@ -1567,9 +1567,9 @@ export default [
     unit: 'g',
     calories: 38,
     protein: 6.9,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.9,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem04401.png'
   },
   {
@@ -1580,7 +1580,7 @@ export default [
     unit: 'g',
     calories: 37,
     protein: 6.9,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.8,
     carbohydrate: 0.3,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem04402.png'
@@ -1593,9 +1593,9 @@ export default [
     unit: 'g',
     calories: 51,
     protein: 6.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 2.5,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem04403.png'
   },
   {
@@ -1606,9 +1606,9 @@ export default [
     unit: 'g',
     calories: 37,
     protein: 7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.8,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem04404.png'
   },
   {
@@ -1619,9 +1619,9 @@ export default [
     unit: 'g',
     calories: 28,
     protein: 6.5,
-    dietaryFiber: -999999,
-    fat: -999999,
-    carbohydrate: -999999,
+    dietaryFiber: 0,
+    fat: 0,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem04501.png'
   },
   {
@@ -1632,9 +1632,9 @@ export default [
     unit: 'g',
     calories: 33,
     protein: 7.7,
-    dietaryFiber: -999999,
-    fat: -999999,
-    carbohydrate: -999999,
+    dietaryFiber: 0,
+    fat: 0,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem04502.png'
   },
   {
@@ -1645,9 +1645,9 @@ export default [
     unit: 'g',
     calories: 32,
     protein: 7.5,
-    dietaryFiber: -999999,
-    fat: -999999,
-    carbohydrate: -999999,
+    dietaryFiber: 0,
+    fat: 0,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem04503.png'
   },
   {
@@ -1658,9 +1658,9 @@ export default [
     unit: 'g',
     calories: 33,
     protein: 7.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.2,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem04601.png'
   },
   {
@@ -1671,9 +1671,9 @@ export default [
     unit: 'g',
     calories: 34,
     protein: 7.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.4,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem04602.png'
   },
   {
@@ -1684,9 +1684,9 @@ export default [
     unit: 'g',
     calories: 34,
     protein: 7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.5,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem04603.png'
   },
   {
@@ -1697,9 +1697,9 @@ export default [
     unit: 'g',
     calories: 55,
     protein: 7.6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 2.5,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem04701.png'
   },
   {
@@ -1710,9 +1710,9 @@ export default [
     unit: 'g',
     calories: 34,
     protein: 7.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.2,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem04702.png'
   },
   {
@@ -1723,7 +1723,7 @@ export default [
     unit: 'g',
     calories: 32,
     protein: 7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.3,
     carbohydrate: 0.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem04801.png'
@@ -1736,9 +1736,9 @@ export default [
     unit: 'g',
     calories: 36,
     protein: 6.9,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.7,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem04802.png'
   },
   {
@@ -1749,9 +1749,9 @@ export default [
     unit: 'g',
     calories: 57,
     protein: 6.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 3.1,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem04803.png'
   },
   {
@@ -1762,7 +1762,7 @@ export default [
     unit: 'g',
     calories: 53,
     protein: 6.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 2.7,
     carbohydrate: 0.1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem04901.png'
@@ -1775,7 +1775,7 @@ export default [
     unit: 'g',
     calories: 32,
     protein: 7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.3,
     carbohydrate: 0.1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem04902.png'
@@ -1788,9 +1788,9 @@ export default [
     unit: 'g',
     calories: 62,
     protein: 7.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 3.5,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem05001.png'
   },
   {
@@ -1801,9 +1801,9 @@ export default [
     unit: 'g',
     calories: 63,
     protein: 7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 3.6,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem05002.png'
   },
   {
@@ -1814,9 +1814,9 @@ export default [
     unit: 'g',
     calories: 63,
     protein: 7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 3.6,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem05003.png'
   },
   {
@@ -1827,9 +1827,9 @@ export default [
     unit: 'g',
     calories: 110,
     protein: 6.6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 9.1,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem05101.png'
   },
   {
@@ -1840,9 +1840,9 @@ export default [
     unit: 'g',
     calories: 83,
     protein: 7.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 5.8,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem05102.png'
   },
   {
@@ -1853,9 +1853,9 @@ export default [
     unit: 'g',
     calories: 80,
     protein: 6.9,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 5.6,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem05103.png'
   },
   {
@@ -1866,9 +1866,9 @@ export default [
     unit: 'g',
     calories: 83,
     protein: 7.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 5.8,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem05104.png'
   },
   {
@@ -1879,9 +1879,9 @@ export default [
     unit: 'g',
     calories: 28,
     protein: 6.9,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.1,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem05201.png'
   },
   {
@@ -1892,7 +1892,7 @@ export default [
     unit: 'g',
     calories: 50,
     protein: 7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 1,
     carbohydrate: 3.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem05202.png'
@@ -1905,7 +1905,7 @@ export default [
     unit: 'g',
     calories: 50,
     protein: 7.3,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 1.3,
     carbohydrate: 2.3,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem05203.png'
@@ -1918,7 +1918,7 @@ export default [
     unit: 'g',
     calories: 70,
     protein: 7.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 1.2,
     carbohydrate: 7.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem05301.png'
@@ -1931,7 +1931,7 @@ export default [
     unit: 'g',
     calories: 41,
     protein: 6.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.4,
     carbohydrate: 2.6,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem05302.png'
@@ -1944,7 +1944,7 @@ export default [
     unit: 'g',
     calories: 57,
     protein: 7.1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 1.3,
     carbohydrate: 4.3,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem05303.png'
@@ -1957,7 +1957,7 @@ export default [
     unit: 'g',
     calories: 41,
     protein: 6.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.4,
     carbohydrate: 2.6,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem05304.png'
@@ -1970,7 +1970,7 @@ export default [
     unit: 'g',
     calories: 47,
     protein: 6.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.1,
     carbohydrate: 5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem05401.png'
@@ -1983,7 +1983,7 @@ export default [
     unit: 'g',
     calories: 36,
     protein: 6.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.4,
     carbohydrate: 1.7,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem05402.png'
@@ -1996,8 +1996,8 @@ export default [
     unit: 'g',
     calories: 32,
     protein: 7.5,
-    dietaryFiber: -999999,
-    fat: -999999,
+    dietaryFiber: 0,
+    fat: 0,
     carbohydrate: 7,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem05403.png'
   },
@@ -2009,7 +2009,7 @@ export default [
     unit: 'g',
     calories: 42,
     protein: 6.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.5,
     carbohydrate: 2.6,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem05404.png'
@@ -2022,7 +2022,7 @@ export default [
     unit: 'g',
     calories: 28,
     protein: 6.6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.1,
     carbohydrate: 0.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem05501.png'
@@ -2035,8 +2035,8 @@ export default [
     unit: 'g',
     calories: 27,
     protein: 6.5,
-    dietaryFiber: -999999,
-    fat: -999999,
+    dietaryFiber: 0,
+    fat: 0,
     carbohydrate: 0.3,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem05502.png'
   },
@@ -2048,7 +2048,7 @@ export default [
     unit: 'g',
     calories: 29,
     protein: 6.6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.2,
     carbohydrate: 0.3,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem05503.png'
@@ -2061,7 +2061,7 @@ export default [
     unit: 'g',
     calories: 32,
     protein: 7.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.1,
     carbohydrate: 0.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem05504.png'
@@ -2074,7 +2074,7 @@ export default [
     unit: 'g',
     calories: 33,
     protein: 7.1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.2,
     carbohydrate: 0.7,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem05601.png'
@@ -2087,7 +2087,7 @@ export default [
     unit: 'g',
     calories: 34,
     protein: 7.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.3,
     carbohydrate: 0.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem05602.png'
@@ -2100,7 +2100,7 @@ export default [
     unit: 'g',
     calories: 34,
     protein: 7.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.3,
     carbohydrate: 0.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem05603.png'
@@ -2113,7 +2113,7 @@ export default [
     unit: 'g',
     calories: 53,
     protein: 6.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.1,
     carbohydrate: 0.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem05604.png'
@@ -2126,7 +2126,7 @@ export default [
     unit: 'g',
     calories: 30,
     protein: 5.9,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.1,
     carbohydrate: 1.6,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem05701.png'
@@ -2139,7 +2139,7 @@ export default [
     unit: 'g',
     calories: 37,
     protein: 7.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.6,
     carbohydrate: 0.3,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem05702.png'
@@ -2152,7 +2152,7 @@ export default [
     unit: 'g',
     calories: 35,
     protein: 7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.5,
     carbohydrate: 0.7,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem05703.png'
@@ -2165,7 +2165,7 @@ export default [
     unit: 'g',
     calories: 61,
     protein: 7.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 2.1,
     carbohydrate: 3.1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem05704.png'
@@ -2178,8 +2178,8 @@ export default [
     unit: 'g',
     calories: 42,
     protein: 7,
-    dietaryFiber: -999999,
-    fat: -999999,
+    dietaryFiber: 0,
+    fat: 0,
     carbohydrate: 3.6,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem05705.png'
   },
@@ -2191,9 +2191,9 @@ export default [
     unit: 'g',
     calories: 25,
     protein: 5.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.2,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem05801.png'
   },
   {
@@ -2204,7 +2204,7 @@ export default [
     unit: 'g',
     calories: 31,
     protein: 6.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.3,
     carbohydrate: 0.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem05802.png'
@@ -2217,9 +2217,9 @@ export default [
     unit: 'g',
     calories: 34,
     protein: 6.9,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.4,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem05803.png'
   },
   {
@@ -2230,7 +2230,7 @@ export default [
     unit: 'g',
     calories: 117,
     protein: 7.1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 5.1,
     carbohydrate: 11,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem05901.png'
@@ -2243,7 +2243,7 @@ export default [
     unit: 'g',
     calories: 43,
     protein: 6.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.2,
     carbohydrate: 3.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem05902.png'
@@ -2256,9 +2256,9 @@ export default [
     unit: 'g',
     calories: 234,
     protein: 7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 22.6,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem06001.png'
   },
   {
@@ -2269,9 +2269,9 @@ export default [
     unit: 'g',
     calories: 85,
     protein: 8.1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 5.3,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem06002.png'
   },
   {
@@ -2282,7 +2282,7 @@ export default [
     unit: 'g',
     calories: 64,
     protein: 7.6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.9,
     carbohydrate: 6.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem06003.png'
@@ -2295,9 +2295,9 @@ export default [
     unit: 'g',
     calories: 149,
     protein: 6.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 13.3,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem06004.png'
   },
   {
@@ -2308,7 +2308,7 @@ export default [
     unit: 'g',
     calories: 43,
     protein: 5.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 7.2,
     carbohydrate: 1.4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem06101.png'
@@ -2321,9 +2321,9 @@ export default [
     unit: 'g',
     calories: 149,
     protein: 6.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 13.3,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem06102.png'
   },
   {
@@ -2334,9 +2334,9 @@ export default [
     unit: 'g',
     calories: 38,
     protein: 7.1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.8,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem06103.png'
   },
   {
@@ -2347,9 +2347,9 @@ export default [
     unit: 'g',
     calories: 69,
     protein: 6.6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 4.6,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem06201.png'
   },
   {
@@ -2360,9 +2360,9 @@ export default [
     unit: 'g',
     calories: 43,
     protein: 7.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 1.2,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem06202.png'
   },
   {
@@ -2373,9 +2373,9 @@ export default [
     unit: 'g',
     calories: 43,
     protein: 7.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 1.2,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem06203.png'
   },
   {
@@ -2386,7 +2386,7 @@ export default [
     unit: 'g',
     calories: 40,
     protein: 7.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 1,
     carbohydrate: 1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem06301.png'
@@ -2399,9 +2399,9 @@ export default [
     unit: 'g',
     calories: 40,
     protein: 7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 1.1,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem06302.png'
   },
   {
@@ -2412,7 +2412,7 @@ export default [
     unit: 'g',
     calories: 64,
     protein: 7.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 1,
     carbohydrate: 1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem06303.png'
@@ -2425,9 +2425,9 @@ export default [
     unit: 'g',
     calories: 48,
     protein: 7.1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 1.9,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem06401.png'
   },
   {
@@ -2438,9 +2438,9 @@ export default [
     unit: 'g',
     calories: 56,
     protein: 6.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 3.1,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem06402.png'
   },
   {
@@ -2451,9 +2451,9 @@ export default [
     unit: 'g',
     calories: 67,
     protein: 6.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 4.3,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem06403.png'
   },
   {
@@ -2464,9 +2464,9 @@ export default [
     unit: 'g',
     calories: 196,
     protein: 7.3,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 18.4,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem06501.png'
   },
   {
@@ -2477,9 +2477,9 @@ export default [
     unit: 'g',
     calories: 99,
     protein: 7.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 7.6,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem06404.png'
   },
   {
@@ -2490,9 +2490,9 @@ export default [
     unit: 'g',
     calories: 75,
     protein: 6.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 5.1,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem06502.png'
   },
   {
@@ -2503,7 +2503,7 @@ export default [
     unit: 'g',
     calories: 153,
     protein: 6.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 13.8,
     carbohydrate: 1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem06503.png'
@@ -2516,9 +2516,9 @@ export default [
     unit: 'g',
     calories: 114,
     protein: 6.9,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 9.4,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem06601.png'
   },
   {
@@ -2529,7 +2529,7 @@ export default [
     unit: 'g',
     calories: 40,
     protein: 7.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 1,
     carbohydrate: 1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem06602.png'
@@ -2542,7 +2542,7 @@ export default [
     unit: 'g',
     calories: 42,
     protein: 7.3,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 1.2,
     carbohydrate: 0.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem06603.png'
@@ -2555,7 +2555,7 @@ export default [
     unit: 'g',
     calories: 138,
     protein: 7.1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 7.4,
     carbohydrate: 10.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem06604.png'
@@ -2568,7 +2568,7 @@ export default [
     unit: 'g',
     calories: 73,
     protein: 6.9,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 4.8,
     carbohydrate: 0.4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem06605.png'
@@ -2581,7 +2581,7 @@ export default [
     unit: 'g',
     calories: 36,
     protein: 6.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 6.9,
     carbohydrate: 0.6,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem06701.png'
@@ -2594,7 +2594,7 @@ export default [
     unit: 'g',
     calories: 213,
     protein: 6.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 20.4,
     carbohydrate: 1.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem06702.png'
@@ -2607,9 +2607,9 @@ export default [
     unit: 'g',
     calories: 78,
     protein: 6.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 5.4,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem06703.png'
   },
   {
@@ -2620,9 +2620,9 @@ export default [
     unit: 'g',
     calories: 78,
     protein: 6.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 5.4,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem06704.png'
   },
   {
@@ -2633,9 +2633,9 @@ export default [
     unit: 'g',
     calories: 71,
     protein: 7.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 4.4,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem06801.png'
   },
   {
@@ -2646,7 +2646,7 @@ export default [
     unit: 'g',
     calories: 56,
     protein: 7.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 2.8,
     carbohydrate: 0.4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem06802.png'
@@ -2659,9 +2659,9 @@ export default [
     unit: 'g',
     calories: 71,
     protein: 7.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 4.4,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem06803.png'
   },
   {
@@ -2672,9 +2672,9 @@ export default [
     unit: 'g',
     calories: 42,
     protein: 7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 1.4,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem06804.png'
   },
   {
@@ -2685,9 +2685,9 @@ export default [
     unit: 'g',
     calories: 56,
     protein: 7.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 2.8,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem06805.png'
   },
   {
@@ -2698,7 +2698,7 @@ export default [
     unit: 'g',
     calories: 154,
     protein: 7.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 13.5,
     carbohydrate: 1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem06901.png'
@@ -2711,7 +2711,7 @@ export default [
     unit: 'g',
     calories: 61,
     protein: 7.1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 1.5,
     carbohydrate: 4.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem06902.png'
@@ -2724,7 +2724,7 @@ export default [
     unit: 'g',
     calories: 142,
     protein: 6.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 11.3,
     carbohydrate: 3.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem06903.png'
@@ -2737,7 +2737,7 @@ export default [
     unit: 'g',
     calories: 50,
     protein: 6.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 4.6,
     carbohydrate: 2.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem07001.png'
@@ -2750,7 +2750,7 @@ export default [
     unit: 'g',
     calories: 210,
     protein: 7.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 19.9,
     carbohydrate: 0.7,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem07002.png'
@@ -2763,7 +2763,7 @@ export default [
     unit: 'g',
     calories: 138,
     protein: 6.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 9.8,
     carbohydrate: 5.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem07003.png'
@@ -2776,7 +2776,7 @@ export default [
     unit: 'g',
     calories: 81,
     protein: 7.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 1.2,
     carbohydrate: 9.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem07004.png'
@@ -2789,7 +2789,7 @@ export default [
     unit: 'g',
     calories: 109,
     protein: 6.6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 7.1,
     carbohydrate: 4.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem07101.png'
@@ -2802,7 +2802,7 @@ export default [
     unit: 'g',
     calories: 50,
     protein: 6.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 1,
     carbohydrate: 4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem07102.png'
@@ -2815,7 +2815,7 @@ export default [
     unit: 'g',
     calories: 88,
     protein: 6.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 5,
     carbohydrate: 4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem07103.png'
@@ -2828,9 +2828,9 @@ export default [
     unit: 'g',
     calories: 31,
     protein: 6.9,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.1,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem07201.png'
   },
   {
@@ -2841,7 +2841,7 @@ export default [
     unit: 'g',
     calories: 56,
     protein: 7.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 2.8,
     carbohydrate: 0.1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem07202.png'
@@ -2854,9 +2854,9 @@ export default [
     unit: 'g',
     calories: 90,
     protein: 7.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 6.4,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem07203.png'
   },
   {
@@ -2867,7 +2867,7 @@ export default [
     unit: 'g',
     calories: 35,
     protein: 6.9,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.6,
     carbohydrate: 0.6,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem07204.png'
@@ -2880,9 +2880,9 @@ export default [
     unit: 'g',
     calories: 96,
     protein: 6.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 7.5,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem07301.png'
   },
   {
@@ -2893,9 +2893,9 @@ export default [
     unit: 'g',
     calories: 43,
     protein: 7.3,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 1.3,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem07302.png'
   },
   {
@@ -2906,9 +2906,9 @@ export default [
     unit: 'g',
     calories: 61,
     protein: 6.6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 3.7,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem07303.png'
   },
   {
@@ -2919,9 +2919,9 @@ export default [
     unit: 'g',
     calories: 39,
     protein: 7.3,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.8,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem07401.png'
   },
   {
@@ -2932,7 +2932,7 @@ export default [
     unit: 'g',
     calories: 60,
     protein: 6.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 3.5,
     carbohydrate: 1.1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem07402.png'
@@ -2945,7 +2945,7 @@ export default [
     unit: 'g',
     calories: 37,
     protein: 7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.8,
     carbohydrate: 4.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem07403.png'
@@ -2958,7 +2958,7 @@ export default [
     unit: 'g',
     calories: 271,
     protein: 7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 4.3,
     carbohydrate: 51.6,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem07501.png'
@@ -2971,8 +2971,8 @@ export default [
     unit: 'g',
     calories: 68,
     protein: 7,
-    dietaryFiber: -999999,
-    fat: -999999,
+    dietaryFiber: 0,
+    fat: 0,
     carbohydrate: 10,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem07502.png'
   },
@@ -2984,7 +2984,7 @@ export default [
     unit: 'g',
     calories: 68,
     protein: 7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.6,
     carbohydrate: 8.7,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem07503.png'
@@ -2997,7 +2997,7 @@ export default [
     unit: 'g',
     calories: 96,
     protein: 6.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 2.5,
     carbohydrate: 11.6,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem07504.png'
@@ -3010,7 +3010,7 @@ export default [
     unit: 'g',
     calories: 100,
     protein: 6.9,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 5.6,
     carbohydrate: 5.7,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem07601.png'
@@ -3023,7 +3023,7 @@ export default [
     unit: 'g',
     calories: 77,
     protein: 6.9,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.6,
     carbohydrate: 11.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem07602.png'
@@ -3036,7 +3036,7 @@ export default [
     unit: 'g',
     calories: 95,
     protein: 6.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 7.6,
     carbohydrate: 0.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem07603.png'
@@ -3049,7 +3049,7 @@ export default [
     unit: 'g',
     calories: 101,
     protein: 7.1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 4.6,
     carbohydrate: 8.1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem07604.png'
@@ -3062,8 +3062,8 @@ export default [
     unit: 'g',
     calories: 55,
     protein: 6.9,
-    dietaryFiber: -999999,
-    fat: -999999,
+    dietaryFiber: 0,
+    fat: 0,
     carbohydrate: 6.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem07701.png'
   },
@@ -3075,7 +3075,7 @@ export default [
     unit: 'g',
     calories: 86,
     protein: 7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.2,
     carbohydrate: 14.3,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem07702.png'
@@ -3088,7 +3088,7 @@ export default [
     unit: 'g',
     calories: 89,
     protein: 6.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 4.3,
     carbohydrate: 6.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem07703.png'
@@ -3101,7 +3101,7 @@ export default [
     unit: 'g',
     calories: 69,
     protein: 7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.2,
     carbohydrate: 9.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem07704.png'
@@ -3114,7 +3114,7 @@ export default [
     unit: 'g',
     calories: 92,
     protein: 6.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 2.2,
     carbohydrate: 11.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem07801.png'
@@ -3127,7 +3127,7 @@ export default [
     unit: 'g',
     calories: 765,
     protein: 7.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 11.7,
     carbohydrate: 7.6,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem07802.png'
@@ -3140,7 +3140,7 @@ export default [
     unit: 'g',
     calories: 157,
     protein: 6.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 11.2,
     carbohydrate: 7.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem07803.png'
@@ -3153,7 +3153,7 @@ export default [
     unit: 'g',
     calories: 177,
     protein: 7.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 12.6,
     carbohydrate: 8.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem07804.png'
@@ -3166,7 +3166,7 @@ export default [
     unit: 'g',
     calories: 109,
     protein: 7.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 8.5,
     carbohydrate: 1.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem07805.png'
@@ -3232,7 +3232,7 @@ export default [
     calories: 23,
     protein: 2.7,
     dietaryFiber: 1.2,
-    fat: -999999,
+    fat: 0,
     carbohydrate: 4.1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem08001.png'
   },
@@ -3245,7 +3245,7 @@ export default [
     calories: 27,
     protein: 2,
     dietaryFiber: 2,
-    fat: -999999,
+    fat: 0,
     carbohydrate: 5.7,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem08002.png'
   },
@@ -3256,9 +3256,9 @@ export default [
     weight: 10,
     unit: 'g',
     calories: 31,
-    protein: -999999,
+    protein: 0,
     dietaryFiber: 7.4,
-    fat: -999999,
+    fat: 0,
     carbohydrate: 7.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem08003.png'
   },
@@ -3322,8 +3322,8 @@ export default [
     unit: 'g',
     calories: 35,
     protein: 3.2,
-    dietaryFiber: -999999,
-    fat: -999999,
+    dietaryFiber: 0,
+    fat: 0,
     carbohydrate: 5.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem08202.png'
   },
@@ -3337,7 +3337,7 @@ export default [
     protein: 2.4,
     dietaryFiber: 0.7,
     fat: 0.1,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem08203.png'
   },
   {
@@ -3584,7 +3584,7 @@ export default [
     protein: 0.3,
     dietaryFiber: 1.8,
     fat: 0.1,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem08703.png'
   },
   {
@@ -3621,7 +3621,7 @@ export default [
     unit: 'g',
     calories: 32,
     protein: 0.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.2,
     carbohydrate: 7.3,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem08803.png'
@@ -3674,8 +3674,8 @@ export default [
     calories: 13,
     protein: 0.5,
     dietaryFiber: 1.1,
-    fat: -999999,
-    carbohydrate: -999999,
+    fat: 0,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem08903.png'
   },
   {
@@ -3686,7 +3686,7 @@ export default [
     unit: 'g',
     calories: 34,
     protein: 1.9,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.2,
     carbohydrate: 7,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem08904.png'
@@ -3726,8 +3726,8 @@ export default [
     calories: 18,
     protein: 0.8,
     dietaryFiber: 1.9,
-    fat: -999999,
-    carbohydrate: -999999,
+    fat: 0,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem09003.png'
   },
   {
@@ -4271,7 +4271,7 @@ export default [
     unit: 'g',
     calories: 57,
     protein: 1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.7,
     carbohydrate: 13.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem10102.png'
@@ -4376,7 +4376,7 @@ export default [
     calories: 64,
     protein: 0.7,
     dietaryFiber: 2.7,
-    fat: -999999,
+    fat: 0,
     carbohydrate: 15.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem10302.png'
   },
@@ -4506,7 +4506,7 @@ export default [
     calories: 62,
     protein: 0.5,
     dietaryFiber: 3.9,
-    fat: -999999,
+    fat: 0,
     carbohydrate: 16.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem10504.png'
   },
@@ -4584,7 +4584,7 @@ export default [
     calories: 62,
     protein: 1.3,
     dietaryFiber: 1.6,
-    fat: -999999,
+    fat: 0,
     carbohydrate: 16,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem10702.png'
   },
@@ -4883,7 +4883,7 @@ export default [
     calories: 60,
     protein: 0.1,
     dietaryFiber: 0.2,
-    fat: -999999,
+    fat: 0,
     carbohydrate: 16.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem11301.png'
   },
@@ -4908,7 +4908,7 @@ export default [
     unit: 'g',
     calories: 61,
     protein: 0.3,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.1,
     carbohydrate: 16.6,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem11303.png'
@@ -4947,8 +4947,8 @@ export default [
     unit: 'g',
     calories: 58,
     protein: 0.1,
-    dietaryFiber: -999999,
-    fat: -999999,
+    dietaryFiber: 0,
+    fat: 0,
     carbohydrate: 16,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem11306.png'
   },
@@ -4973,7 +4973,7 @@ export default [
     unit: 'g',
     calories: 60,
     protein: 0.1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.1,
     carbohydrate: 14.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem11402.png'
@@ -5012,7 +5012,7 @@ export default [
     unit: 'g',
     calories: 59,
     protein: 0.1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.5,
     carbohydrate: 15.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem11405.png'
@@ -5025,7 +5025,7 @@ export default [
     unit: 'g',
     calories: 60,
     protein: 0.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.1,
     carbohydrate: 16.3,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem11406.png'
@@ -5078,7 +5078,7 @@ export default [
     calories: 60,
     protein: 0.1,
     dietaryFiber: 2.4,
-    fat: -999999,
+    fat: 0,
     carbohydrate: 15.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem11504.png'
   },
@@ -5089,10 +5089,10 @@ export default [
     weight: 10,
     unit: 'g',
     calories: 88,
-    protein: -999999,
-    dietaryFiber: -999999,
+    protein: 0,
+    dietaryFiber: 0,
     fat: 10,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem116.png'
   },
   {
@@ -5102,10 +5102,10 @@ export default [
     weight: 10,
     unit: 'g',
     calories: 89,
-    protein: -999999,
-    dietaryFiber: -999999,
+    protein: 0,
+    dietaryFiber: 0,
     fat: 9.9,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem11701.png'
   },
   {
@@ -5115,10 +5115,10 @@ export default [
     weight: 10,
     unit: 'g',
     calories: 69,
-    protein: -999999,
-    dietaryFiber: -999999,
+    protein: 0,
+    dietaryFiber: 0,
     fat: 7.6,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem11702.png'
   },
   {
@@ -5233,7 +5233,7 @@ export default [
     unit: 'g',
     calories: 51,
     protein: 0.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 5.3,
     carbohydrate: 0.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem12001.png'
@@ -5336,9 +5336,9 @@ export default [
     weight: 15,
     unit: 'g',
     calories: 58,
-    protein: -999999,
-    dietaryFiber: -999999,
-    fat: -999999,
+    protein: 0,
+    dietaryFiber: 0,
+    fat: 0,
     carbohydrate: 15,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem12201.png'
   },
@@ -5349,9 +5349,9 @@ export default [
     weight: 15,
     unit: 'g',
     calories: 58,
-    protein: -999999,
-    dietaryFiber: -999999,
-    fat: -999999,
+    protein: 0,
+    dietaryFiber: 0,
+    fat: 0,
     carbohydrate: 14.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem12202.png'
   },
@@ -5362,9 +5362,9 @@ export default [
     weight: 15,
     unit: 'g',
     calories: 58,
-    protein: -999999,
-    dietaryFiber: -999999,
-    fat: -999999,
+    protein: 0,
+    dietaryFiber: 0,
+    fat: 0,
     carbohydrate: 14.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem12203.png'
   },
@@ -5375,9 +5375,9 @@ export default [
     weight: 20,
     unit: 'g',
     calories: 59,
-    protein: -999999,
-    dietaryFiber: -999999,
-    fat: -999999,
+    protein: 0,
+    dietaryFiber: 0,
+    fat: 0,
     carbohydrate: 15.4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem12204.png'
   },
@@ -5389,7 +5389,7 @@ export default [
     unit: 'g',
     calories: 63,
     protein: 0.03,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.03,
     carbohydrate: 16.1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem12205.png'
@@ -5649,7 +5649,7 @@ export default [
     unit: 'g',
     calories: 236,
     protein: 17.25,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 8,
     carbohydrate: 23.75,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem13001.png'
@@ -5662,7 +5662,7 @@ export default [
     unit: 'g',
     calories: 430,
     protein: 13.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 13.2,
     carbohydrate: 65.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem13002.png'
@@ -5675,7 +5675,7 @@ export default [
     unit: 'g',
     calories: 969,
     protein: 35.6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 51.2,
     carbohydrate: 88,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem13003.png'
@@ -5688,7 +5688,7 @@ export default [
     unit: 'g',
     calories: 318.2,
     protein: 12.75,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 1.8,
     carbohydrate: 62.75,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem13004.png'
@@ -5701,7 +5701,7 @@ export default [
     unit: 'g',
     calories: 351,
     protein: 15.25,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 5,
     carbohydrate: 61.25,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem13005.png'
@@ -5714,7 +5714,7 @@ export default [
     unit: 'g',
     calories: 413,
     protein: 17,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 5,
     carbohydrate: 75,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem13006.png'
@@ -5727,7 +5727,7 @@ export default [
     unit: 'g',
     calories: 496.5,
     protein: 21.9,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 12.1,
     carbohydrate: 75,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem13007.png'
@@ -5740,7 +5740,7 @@ export default [
     unit: 'g',
     calories: 498.6,
     protein: 26.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 15,
     carbohydrate: 64.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem13008.png'
@@ -5753,7 +5753,7 @@ export default [
     unit: 'g',
     calories: 382.1,
     protein: 19.65,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 4.5,
     carbohydrate: 65.75,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem13009.png'
@@ -5766,7 +5766,7 @@ export default [
     unit: 'g',
     calories: 484.2,
     protein: 23.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 11,
     carbohydrate: 72.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -5779,7 +5779,7 @@ export default [
     unit: 'g',
     calories: 642,
     protein: 33,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 40,
     carbohydrate: 37.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem13011.png'
@@ -5792,7 +5792,7 @@ export default [
     unit: 'g',
     calories: 648,
     protein: 33.25,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 40,
     carbohydrate: 38.75,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem13012.png'
@@ -5805,7 +5805,7 @@ export default [
     unit: 'g',
     calories: 664.625,
     protein: 34.375,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 40.625,
     carbohydrate: 40.275,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem13013.png'
@@ -5818,8 +5818,8 @@ export default [
     unit: 'g',
     calories: 291.2,
     protein: 8.8,
-    dietaryFiber: -999999,
-    fat: -999999,
+    dietaryFiber: 0,
+    fat: 0,
     carbohydrate: 64,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem13014.png'
   },
@@ -5831,7 +5831,7 @@ export default [
     unit: 'g',
     calories: 488.3,
     protein: 21.85,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 7.1,
     carbohydrate: 84.25,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem13015.png'
@@ -5844,7 +5844,7 @@ export default [
     unit: 'g',
     calories: 294.625,
     protein: 9.475,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.625,
     carbohydrate: 62.775,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem13016.png'
@@ -5857,7 +5857,7 @@ export default [
     unit: 'g',
     calories: 159.4,
     protein: 9.35,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 13,
     carbohydrate: 1.25,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem13017.png'
@@ -5870,7 +5870,7 @@ export default [
     unit: 'g',
     calories: 52.55,
     protein: 5.45,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 2.75,
     carbohydrate: 1.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem13018.png'
@@ -5883,7 +5883,7 @@ export default [
     unit: 'g',
     calories: 109,
     protein: 3.1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 3.7,
     carbohydrate: 16.4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem13019.png'
@@ -5896,7 +5896,7 @@ export default [
     unit: 'g',
     calories: 207.76,
     protein: 5.3,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 4.24,
     carbohydrate: 37.1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -5909,7 +5909,7 @@ export default [
     unit: 'g',
     calories: 743,
     protein: 18.204,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 19.68,
     carbohydrate: 123,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -5922,7 +5922,7 @@ export default [
     unit: 'g',
     calories: 308,
     protein: 12.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 3.7,
     carbohydrate: 56,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -5935,7 +5935,7 @@ export default [
     unit: 'g',
     calories: 496,
     protein: 21.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 20,
     carbohydrate: 57.6,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -5948,7 +5948,7 @@ export default [
     unit: 'g',
     calories: 323,
     protein: 13.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 2.4,
     carbohydrate: 61.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -5961,7 +5961,7 @@ export default [
     unit: 'g',
     calories: 515.25,
     protein: 12.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 14.25,
     carbohydrate: 84.25,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -5974,7 +5974,7 @@ export default [
     unit: 'g',
     calories: 676,
     protein: 24.01,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 17.15,
     carbohydrate: 106.33,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -5987,7 +5987,7 @@ export default [
     unit: 'g',
     calories: 682.76,
     protein: 24.24,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 20.2,
     carbohydrate: 101,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -6000,7 +6000,7 @@ export default [
     unit: 'g',
     calories: 597.284,
     protein: 18.734,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 13.224,
     carbohydrate: 100.833,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -6013,7 +6013,7 @@ export default [
     unit: 'g',
     calories: 255,
     protein: 13,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 9,
     carbohydrate: 30,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem15001.png'
@@ -6026,7 +6026,7 @@ export default [
     unit: 'g',
     calories: 304,
     protein: 16,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 13,
     carbohydrate: 31,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem15002.png'
@@ -6039,7 +6039,7 @@ export default [
     unit: 'g',
     calories: 535,
     protein: 27,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 29,
     carbohydrate: 42,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -6048,11 +6048,11 @@ export default [
     _id: '5b67bd80872b64005c889764',
     name: '1955美式培根牛肉堡',
     flag: 'systemFood',
-    weight: -999999,
+    weight: 0,
     unit: '',
     calories: 543,
     protein: 26,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 32,
     carbohydrate: 38,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -6061,11 +6061,11 @@ export default [
     _id: '5b67bd80872b64005c889765',
     name: '雙層牛肉吉事堡',
     flag: 'systemFood',
-    weight: -999999,
+    weight: 0,
     unit: '',
     calories: 456,
     protein: 27,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 25,
     carbohydrate: 31,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem15005.png'
@@ -6074,11 +6074,11 @@ export default [
     _id: '5b67bd80872b64005c889766',
     name: '四盎司牛肉堡',
     flag: 'systemFood',
-    weight: -999999,
+    weight: 0,
     unit: '',
     calories: 537,
     protein: 31,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 30,
     carbohydrate: 35,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -6087,11 +6087,11 @@ export default [
     _id: '5b67bd80872b64005c889767',
     name: '雙層四盎司牛肉堡',
     flag: 'systemFood',
-    weight: -999999,
+    weight: 0,
     unit: '',
     calories: 800,
     protein: 51,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 51,
     carbohydrate: 35,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem15007.png'
@@ -6100,11 +6100,11 @@ export default [
     _id: '5b67bd80872b64005c889768',
     name: '麥克雙牛堡',
     flag: 'systemFood',
-    weight: -999999,
+    weight: 0,
     unit: '',
     calories: 407,
     protein: 24,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 21,
     carbohydrate: 31,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem15008.png'
@@ -6117,7 +6117,7 @@ export default [
     unit: 'g',
     calories: 321,
     protein: 14,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 13,
     carbohydrate: 37,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem15009.png'
@@ -6126,11 +6126,11 @@ export default [
     _id: '5b67bd80872b64005c88976a',
     name: '一口咬麥麥雞',
     flag: 'systemFood',
-    weight: -999999,
+    weight: 0,
     unit: '',
     calories: 87,
     protein: 15,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 2,
     carbohydrate: 2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -6139,11 +6139,11 @@ export default [
     _id: '5b67bd80872b64005c88976b',
     name: '陽光鱈魚堡',
     flag: 'systemFood',
-    weight: -999999,
+    weight: 0,
     unit: '',
     calories: 256,
     protein: 12,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 6,
     carbohydrate: 38,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -6152,11 +6152,11 @@ export default [
     _id: '5b67bd80872b64005c88976c',
     name: '青蔬烤雞堡',
     flag: 'systemFood',
-    weight: -999999,
+    weight: 0,
     unit: '',
     calories: 252,
     protein: 18,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 8,
     carbohydrate: 29,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -6169,7 +6169,7 @@ export default [
     unit: 'g',
     calories: 374,
     protein: 15,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 17,
     carbohydrate: 40,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem15013.png'
@@ -6182,7 +6182,7 @@ export default [
     unit: 'g',
     calories: 535,
     protein: 24,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 30,
     carbohydrate: 42,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -6191,11 +6191,11 @@ export default [
     _id: '5b67bd80872b64005c88976f',
     name: '板烤雞腿堡',
     flag: 'systemFood',
-    weight: -999999,
+    weight: 0,
     unit: '',
     calories: 366,
     protein: 23,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 12,
     carbohydrate: 42,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem15015.png'
@@ -6208,7 +6208,7 @@ export default [
     unit: 'g',
     calories: 309,
     protein: 17,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 20,
     carbohydrate: 16,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem15016.png'
@@ -6217,11 +6217,11 @@ export default [
     _id: '5b67bd80872b64005c889771',
     name: '勁辣香雞翅',
     flag: 'systemFood',
-    weight: -999999,
+    weight: 0,
     unit: '',
     calories: 240,
     protein: 12,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 17,
     carbohydrate: 9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -6234,7 +6234,7 @@ export default [
     unit: 'g',
     calories: 233,
     protein: 16,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 15,
     carbohydrate: 9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -6247,7 +6247,7 @@ export default [
     unit: 'g',
     calories: 228,
     protein: 17,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 14,
     carbohydrate: 7,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -6260,7 +6260,7 @@ export default [
     unit: 'g',
     calories: 346,
     protein: 22,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 25,
     carbohydrate: 10,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem15020.png'
@@ -6273,7 +6273,7 @@ export default [
     unit: 'g',
     calories: 257,
     protein: 15,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 17,
     carbohydrate: 11,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -6286,7 +6286,7 @@ export default [
     unit: 'g',
     calories: 230,
     protein: 16,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 15,
     carbohydrate: 9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -6299,7 +6299,7 @@ export default [
     unit: 'g',
     calories: 331,
     protein: 22,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 23,
     carbohydrate: 11,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem15023.png'
@@ -6312,7 +6312,7 @@ export default [
     unit: 'g',
     calories: 216.3,
     protein: 13.85,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 7.1,
     carbohydrate: 24.25,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -6325,9 +6325,9 @@ export default [
     unit: 'g',
     calories: 82.5,
     protein: 10.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 4.5,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem13021.png'
   },
   {
@@ -6338,7 +6338,7 @@ export default [
     unit: 'g',
     calories: 54.75,
     protein: 5.25,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 3.75,
     carbohydrate: 5.25,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem13022.png'
@@ -6351,7 +6351,7 @@ export default [
     unit: 'g',
     calories: 101.5,
     protein: 8.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 6.65,
     carbohydrate: 2.15,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem13023.png'
@@ -6364,9 +6364,9 @@ export default [
     unit: 'g',
     calories: 110,
     protein: 14,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 6,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
   },
   {
@@ -6377,9 +6377,9 @@ export default [
     unit: 'g',
     calories: 110,
     protein: 14,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 6,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
   },
   {
@@ -6390,9 +6390,9 @@ export default [
     unit: 'g',
     calories: 146,
     protein: 14,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 10,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
   },
   {
@@ -6403,9 +6403,9 @@ export default [
     unit: 'g',
     calories: 110,
     protein: 14,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 6,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
   },
   {
@@ -6416,9 +6416,9 @@ export default [
     unit: 'g',
     calories: 146,
     protein: 14,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 10,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
   },
   {
@@ -6429,9 +6429,9 @@ export default [
     unit: 'g',
     calories: 110,
     protein: 14,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 6,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
   },
   {
@@ -6442,7 +6442,7 @@ export default [
     unit: 'g',
     calories: 118.4,
     protein: 14.35,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 6,
     carbohydrate: 1.75,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -6455,9 +6455,9 @@ export default [
     unit: 'g',
     calories: 110,
     protein: 14,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 6,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
   },
   {
@@ -6468,9 +6468,9 @@ export default [
     unit: 'g',
     calories: 146,
     protein: 14,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 10,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
   },
   {
@@ -6481,9 +6481,9 @@ export default [
     unit: 'g',
     calories: 110,
     protein: 14,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 6,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
   },
   {
@@ -6494,7 +6494,7 @@ export default [
     unit: 'g',
     calories: 872,
     protein: 28.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 37.6,
     carbohydrate: 102.7,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem13034.png'
@@ -6507,7 +6507,7 @@ export default [
     unit: 'g',
     calories: 354.6,
     protein: 16.15,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 3,
     carbohydrate: 65.75,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem13034.png'
@@ -6520,7 +6520,7 @@ export default [
     unit: 'g',
     calories: 409.6,
     protein: 23.15,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 6,
     carbohydrate: 65.75,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem13034.png'
@@ -6533,7 +6533,7 @@ export default [
     unit: 'g',
     calories: 427.9,
     protein: 16.1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 3.5,
     carbohydrate: 83,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem13035.png'
@@ -6546,7 +6546,7 @@ export default [
     unit: 'g',
     calories: 383.9,
     protein: 11.6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 1.5,
     carbohydrate: 81,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -6559,8 +6559,8 @@ export default [
     unit: 'g',
     calories: 352,
     protein: 10.5,
-    dietaryFiber: -999999,
-    fat: -999999,
+    dietaryFiber: 0,
+    fat: 0,
     carbohydrate: 77.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
   },
@@ -6572,7 +6572,7 @@ export default [
     unit: 'g',
     calories: 241.1,
     protein: 7.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 1.5,
     carbohydrate: 49.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -6585,8 +6585,8 @@ export default [
     unit: 'g',
     calories: 311.2,
     protein: 7.55,
-    dietaryFiber: -999999,
-    fat: -999999,
+    dietaryFiber: 0,
+    fat: 0,
     carbohydrate: 70.25,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
   },
@@ -6598,7 +6598,7 @@ export default [
     unit: 'g',
     calories: 221.9,
     protein: 6.6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 1.5,
     carbohydrate: 45.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -6611,7 +6611,7 @@ export default [
     unit: 'g',
     calories: 299.9,
     protein: 16.1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 7.5,
     carbohydrate: 42,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem13041.png'
@@ -6624,7 +6624,7 @@ export default [
     unit: 'g',
     calories: 247.9,
     protein: 18.1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 17.5,
     carbohydrate: 4.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem13042.png'
@@ -6637,8 +6637,8 @@ export default [
     unit: 'g',
     calories: 216,
     protein: 6.5,
-    dietaryFiber: -999999,
-    fat: -999999,
+    dietaryFiber: 0,
+    fat: 0,
     carbohydrate: 47.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem13043.png'
   },
@@ -6646,11 +6646,11 @@ export default [
     _id: '5b67bd80872b64005c889792',
     name: '廣東粥',
     flag: 'systemFood',
-    weight: -999999,
+    weight: 0,
     unit: '',
     calories: 420,
     protein: 40,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 20,
     carbohydrate: 20,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem13044.png'
@@ -6659,11 +6659,11 @@ export default [
     _id: '5b67bd80872b64005c889793',
     name: '海產粥',
     flag: 'systemFood',
-    weight: -999999,
+    weight: 0,
     unit: '',
     calories: 526.2,
     protein: 42,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 31,
     carbohydrate: 19.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem13044.png'
@@ -6672,11 +6672,11 @@ export default [
     _id: '5b67bd80872b64005c889794',
     name: '皮蛋瘦肉粥',
     flag: 'systemFood',
-    weight: -999999,
+    weight: 0,
     unit: '',
     calories: 427.4,
     protein: 39.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 21.4,
     carbohydrate: 19.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem13044.png'
@@ -6685,11 +6685,11 @@ export default [
     _id: '5b67bd80872b64005c889795',
     name: '滑蛋牛肉粥',
     flag: 'systemFood',
-    weight: -999999,
+    weight: 0,
     unit: '',
     calories: 770.5,
     protein: 46.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 56.5,
     carbohydrate: 19.3,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem13044.png'
@@ -6702,7 +6702,7 @@ export default [
     unit: 'g',
     calories: 291,
     protein: 5.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 5.7,
     carbohydrate: 52.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem13044.png'
@@ -6715,7 +6715,7 @@ export default [
     unit: 'g',
     calories: 503,
     protein: 9.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 7.5,
     carbohydrate: 96.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem13045.png'
@@ -6728,7 +6728,7 @@ export default [
     unit: 'g',
     calories: 959,
     protein: 43.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 43,
     carbohydrate: 99.3,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem13046.png'
@@ -6741,7 +6741,7 @@ export default [
     unit: 'g',
     calories: 589.3,
     protein: 20.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 24.5,
     carbohydrate: 72,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem13034.png'
@@ -6767,7 +6767,7 @@ export default [
     unit: 'g',
     calories: 143,
     protein: 13.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.9,
     carbohydrate: 20.4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem13037.png'
@@ -6780,7 +6780,7 @@ export default [
     unit: 'g',
     calories: 136,
     protein: 12.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.2,
     carbohydrate: 21.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem13057.png'
@@ -6793,7 +6793,7 @@ export default [
     unit: 'g',
     calories: 12.5,
     protein: 11.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.2,
     carbohydrate: 9.4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem13001.png'
@@ -6897,7 +6897,7 @@ export default [
     unit: 'g',
     calories: 410,
     protein: 16.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 17,
     carbohydrate: 47.7,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -6910,7 +6910,7 @@ export default [
     unit: 'g',
     calories: 413,
     protein: 15,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 18.3,
     carbohydrate: 47.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -6923,7 +6923,7 @@ export default [
     unit: 'g',
     calories: 503,
     protein: 15.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 23.7,
     carbohydrate: 55.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -6936,7 +6936,7 @@ export default [
     unit: 'g',
     calories: 414,
     protein: 10.6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 23.2,
     carbohydrate: 52,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -6949,7 +6949,7 @@ export default [
     unit: 'g',
     calories: 510,
     protein: 11.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 27.9,
     carbohydrate: 52.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -6962,7 +6962,7 @@ export default [
     unit: 'g',
     calories: 413,
     protein: 17,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 17,
     carbohydrate: 47.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -6975,7 +6975,7 @@ export default [
     unit: 'g',
     calories: 443,
     protein: 14.6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 16.5,
     carbohydrate: 58.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem16000.png'
@@ -6988,7 +6988,7 @@ export default [
     unit: 'g',
     calories: 686,
     protein: 21.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 40,
     carbohydrate: 55.6,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7001,7 +7001,7 @@ export default [
     unit: 'g',
     calories: 373,
     protein: 15.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 20.4,
     carbohydrate: 31.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7014,7 +7014,7 @@ export default [
     unit: 'g',
     calories: 415,
     protein: 12.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 22.2,
     carbohydrate: 40.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7027,7 +7027,7 @@ export default [
     unit: 'g',
     calories: 345,
     protein: 9.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 21.8,
     carbohydrate: 28.3,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7040,7 +7040,7 @@ export default [
     unit: 'g',
     calories: 328.2,
     protein: 12.6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 17.6,
     carbohydrate: 30,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7053,7 +7053,7 @@ export default [
     unit: 'g',
     calories: 371.8,
     protein: 9.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 21.2,
     carbohydrate: 35.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7066,7 +7066,7 @@ export default [
     unit: 'g',
     calories: 325,
     protein: 12.1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 16.8,
     carbohydrate: 31.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7079,7 +7079,7 @@ export default [
     unit: 'g',
     calories: 325,
     protein: 14.1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 15.5,
     carbohydrate: 32.6,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7092,7 +7092,7 @@ export default [
     unit: 'g',
     calories: 327,
     protein: 7.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 21.7,
     carbohydrate: 36.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7105,7 +7105,7 @@ export default [
     unit: 'g',
     calories: 426,
     protein: 17.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 24.2,
     carbohydrate: 34.7,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7118,7 +7118,7 @@ export default [
     unit: 'g',
     calories: 365,
     protein: 6.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 22.5,
     carbohydrate: 33.7,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7131,7 +7131,7 @@ export default [
     unit: 'g',
     calories: 314,
     protein: 5.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 18.6,
     carbohydrate: 31.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7144,7 +7144,7 @@ export default [
     unit: 'g',
     calories: 190,
     protein: 5.3,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 6,
     carbohydrate: 29,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7157,7 +7157,7 @@ export default [
     unit: 'g',
     calories: 270,
     protein: 6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 14.6,
     carbohydrate: 25.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7170,7 +7170,7 @@ export default [
     unit: 'g',
     calories: 206,
     protein: 5.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 7.3,
     carbohydrate: 30.3,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7183,7 +7183,7 @@ export default [
     unit: 'g',
     calories: 207,
     protein: 6.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 7.4,
     carbohydrate: 28.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7196,7 +7196,7 @@ export default [
     unit: 'g',
     calories: 218,
     protein: 5.1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 9.7,
     carbohydrate: 27.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7209,7 +7209,7 @@ export default [
     unit: 'g',
     calories: 398,
     protein: 17.6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 17.5,
     carbohydrate: 42.3,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7222,7 +7222,7 @@ export default [
     unit: 'g',
     calories: 661,
     protein: 21.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 36.6,
     carbohydrate: 60.6,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7235,7 +7235,7 @@ export default [
     unit: 'g',
     calories: 357,
     protein: 15.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 16.8,
     carbohydrate: 36.3,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7248,7 +7248,7 @@ export default [
     unit: 'g',
     calories: 344,
     protein: 15.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 15.6,
     carbohydrate: 35.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7261,7 +7261,7 @@ export default [
     unit: 'g',
     calories: 263,
     protein: 10.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 9,
     carbohydrate: 34.3,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7274,7 +7274,7 @@ export default [
     unit: 'g',
     calories: 336,
     protein: 11.3,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 12.4,
     carbohydrate: 38.1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7287,7 +7287,7 @@ export default [
     unit: 'g',
     calories: 292,
     protein: 11.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 9.7,
     carbohydrate: 39.3,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7300,7 +7300,7 @@ export default [
     unit: 'g',
     calories: 297,
     protein: 14.6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 9.8,
     carbohydrate: 36.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7313,7 +7313,7 @@ export default [
     unit: 'g',
     calories: 277,
     protein: 11.3,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 9.3,
     carbohydrate: 37,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7326,7 +7326,7 @@ export default [
     unit: 'g',
     calories: 345,
     protein: 13.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 17.2,
     carbohydrate: 44.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem16100.png'
@@ -7339,7 +7339,7 @@ export default [
     unit: 'g',
     calories: 338,
     protein: 18,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 11.8,
     carbohydrate: 39.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7352,7 +7352,7 @@ export default [
     unit: 'g',
     calories: 316,
     protein: 8.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 18.1,
     carbohydrate: 41.3,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7365,7 +7365,7 @@ export default [
     unit: 'g',
     calories: 392,
     protein: 12.9,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 12.9,
     carbohydrate: 39.3,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7378,7 +7378,7 @@ export default [
     unit: 'g',
     calories: 305,
     protein: 15.1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 7.1,
     carbohydrate: 43.7,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7391,7 +7391,7 @@ export default [
     unit: 'g',
     calories: 342,
     protein: 11.9,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 12.8,
     carbohydrate: 43.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7404,7 +7404,7 @@ export default [
     unit: 'g',
     calories: 298,
     protein: 5.9,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 11.8,
     carbohydrate: 41.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7417,7 +7417,7 @@ export default [
     unit: 'g',
     calories: 299,
     protein: 8.9,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 12.1,
     carbohydrate: 38.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7430,7 +7430,7 @@ export default [
     unit: 'g',
     calories: 295,
     protein: 6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 14.2,
     carbohydrate: 35.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7443,7 +7443,7 @@ export default [
     unit: 'g',
     calories: 168,
     protein: 3.3,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 7.5,
     carbohydrate: 21.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7456,7 +7456,7 @@ export default [
     unit: 'g',
     calories: 266,
     protein: 8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 3,
     carbohydrate: 50.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7469,7 +7469,7 @@ export default [
     unit: 'g',
     calories: 346,
     protein: 8.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 11.6,
     carbohydrate: 47.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7482,7 +7482,7 @@ export default [
     unit: 'g',
     calories: 338,
     protein: 8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 7.8,
     carbohydrate: 58.1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7495,7 +7495,7 @@ export default [
     unit: 'g',
     calories: 398,
     protein: 8.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 15.6,
     carbohydrate: 54.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7508,7 +7508,7 @@ export default [
     unit: 'g',
     calories: 340,
     protein: 11,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 8.1,
     carbohydrate: 55.1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7521,7 +7521,7 @@ export default [
     unit: 'g',
     calories: 286,
     protein: 8.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 5.8,
     carbohydrate: 50.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7534,7 +7534,7 @@ export default [
     unit: 'g',
     calories: 328,
     protein: 11.6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 8.4,
     carbohydrate: 50.7,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7547,7 +7547,7 @@ export default [
     unit: 'g',
     calories: 383,
     protein: 12.1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 15.3,
     carbohydrate: 48.7,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7560,7 +7560,7 @@ export default [
     unit: 'g',
     calories: 297,
     protein: 8.1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 7.7,
     carbohydrate: 48.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7573,7 +7573,7 @@ export default [
     unit: 'g',
     calories: 546,
     protein: 18,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 28.9,
     carbohydrate: 52.4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7586,7 +7586,7 @@ export default [
     unit: 'g',
     calories: 491,
     protein: 17.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 22,
     carbohydrate: 54.4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7599,7 +7599,7 @@ export default [
     unit: 'g',
     calories: 539,
     protein: 16.6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 29.4,
     carbohydrate: 62.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7612,7 +7612,7 @@ export default [
     unit: 'g',
     calories: 525,
     protein: 21.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 24.7,
     carbohydrate: 53.3,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7625,7 +7625,7 @@ export default [
     unit: 'g',
     calories: 498,
     protein: 16.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 24.5,
     carbohydrate: 52.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7638,7 +7638,7 @@ export default [
     unit: 'g',
     calories: 437,
     protein: 8.6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 19.4,
     carbohydrate: 55.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7651,7 +7651,7 @@ export default [
     unit: 'g',
     calories: 297,
     protein: 12.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 12,
     carbohydrate: 34.3,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7664,7 +7664,7 @@ export default [
     unit: 'g',
     calories: 311,
     protein: 7.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 16.8,
     carbohydrate: 43.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7677,7 +7677,7 @@ export default [
     unit: 'g',
     calories: 345,
     protein: 6.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 17.1,
     carbohydrate: 40.1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7690,7 +7690,7 @@ export default [
     unit: 'g',
     calories: 291,
     protein: 13.6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 9.9,
     carbohydrate: 36.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7703,7 +7703,7 @@ export default [
     unit: 'g',
     calories: 299,
     protein: 11.9,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 11.3,
     carbohydrate: 37,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7716,7 +7716,7 @@ export default [
     unit: 'g',
     calories: 156,
     protein: 4.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 1.8,
     carbohydrate: 29.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7729,7 +7729,7 @@ export default [
     unit: 'g',
     calories: 338,
     protein: 5.9,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 17,
     carbohydrate: 39.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7742,7 +7742,7 @@ export default [
     unit: 'g',
     calories: 338,
     protein: 5.9,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 17,
     carbohydrate: 39.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7755,7 +7755,7 @@ export default [
     unit: 'g',
     calories: 406,
     protein: 7.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 22.2,
     carbohydrate: 42.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7768,7 +7768,7 @@ export default [
     unit: 'g',
     calories: 360,
     protein: 9.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 18.3,
     carbohydrate: 38.7,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7781,7 +7781,7 @@ export default [
     unit: 'g',
     calories: 415.2,
     protein: 9.6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 25.2,
     carbohydrate: 36.7,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7794,7 +7794,7 @@ export default [
     unit: 'g',
     calories: 436,
     protein: 0.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 24.5,
     carbohydrate: 42.6,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7807,7 +7807,7 @@ export default [
     unit: 'g',
     calories: 401,
     protein: 14.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 20.2,
     carbohydrate: 39.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7820,7 +7820,7 @@ export default [
     unit: 'g',
     calories: 358,
     protein: 4.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 24.5,
     carbohydrate: 24.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7833,7 +7833,7 @@ export default [
     unit: 'g',
     calories: 324,
     protein: 4.6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 19.8,
     carbohydrate: 19.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7846,7 +7846,7 @@ export default [
     unit: 'g',
     calories: 424,
     protein: 5.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 29.7,
     carbohydrate: 29.7,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7859,7 +7859,7 @@ export default [
     unit: 'g',
     calories: 389,
     protein: 8.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 27.5,
     carbohydrate: 27.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7872,7 +7872,7 @@ export default [
     unit: 'g',
     calories: 225,
     protein: 6.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 6.7,
     carbohydrate: 6.7,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7885,7 +7885,7 @@ export default [
     unit: 'g',
     calories: 224,
     protein: 5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 6.6,
     carbohydrate: 6.6,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7898,7 +7898,7 @@ export default [
     unit: 'g',
     calories: 236,
     protein: 5.1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 9,
     carbohydrate: 9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7911,7 +7911,7 @@ export default [
     unit: 'g',
     calories: 263,
     protein: 8.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 10.3,
     carbohydrate: 10.3,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7924,7 +7924,7 @@ export default [
     unit: 'g',
     calories: 317,
     protein: 8.9,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 17.2,
     carbohydrate: 17.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7937,7 +7937,7 @@ export default [
     unit: 'g',
     calories: 323,
     protein: 10.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 13.7,
     carbohydrate: 13.7,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7950,7 +7950,7 @@ export default [
     unit: 'g',
     calories: 306,
     protein: 7.6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 17.1,
     carbohydrate: 17.1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@default.png'
@@ -7963,7 +7963,7 @@ export default [
     unit: 'g',
     calories: 161.4,
     protein: 3.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 7.5,
     carbohydrate: 20,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem16300.png'
@@ -7976,7 +7976,7 @@ export default [
     unit: 'g',
     calories: 204,
     protein: 3.6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 17.1,
     carbohydrate: 8.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem16301.png'
@@ -7989,7 +7989,7 @@ export default [
     unit: 'g',
     calories: 282,
     protein: 4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 13.7,
     carbohydrate: 36.1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem16302.png'
@@ -8002,7 +8002,7 @@ export default [
     unit: 'g',
     calories: 81,
     protein: 0.6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 5,
     carbohydrate: 8.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem16303.png'
@@ -8015,7 +8015,7 @@ export default [
     unit: 'g',
     calories: 153,
     protein: 8.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 12.2,
     carbohydrate: 0.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem16304.png'
@@ -8028,7 +8028,7 @@ export default [
     unit: 'g',
     calories: 241,
     protein: 4.1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 18.1,
     carbohydrate: 15,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem16305.png'
@@ -8041,7 +8041,7 @@ export default [
     unit: 'g',
     calories: 376,
     protein: 22.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 16.9,
     carbohydrate: 32.7,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8054,7 +8054,7 @@ export default [
     unit: 'g',
     calories: 280,
     protein: 14.3,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 10.6,
     carbohydrate: 31.7,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8067,7 +8067,7 @@ export default [
     unit: 'g',
     calories: 312,
     protein: 14.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 9.9,
     carbohydrate: 42,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8080,7 +8080,7 @@ export default [
     unit: 'g',
     calories: 423,
     protein: 36.9,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 22.8,
     carbohydrate: 34.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8093,7 +8093,7 @@ export default [
     unit: 'g',
     calories: 255,
     protein: 15.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 13.2,
     carbohydrate: 18.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8106,7 +8106,7 @@ export default [
     unit: 'g',
     calories: 225,
     protein: 27.6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 5.3,
     carbohydrate: 15.6,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8119,7 +8119,7 @@ export default [
     unit: 'g',
     calories: 455,
     protein: 14.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 21.5,
     carbohydrate: 51.6,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8132,7 +8132,7 @@ export default [
     unit: 'g',
     calories: 324,
     protein: 6.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 11.9,
     carbohydrate: 53.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8145,7 +8145,7 @@ export default [
     unit: 'g',
     calories: 194,
     protein: 9.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 8.5,
     carbohydrate: 20.1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8158,7 +8158,7 @@ export default [
     unit: 'g',
     calories: 468,
     protein: 20.3,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 21.9,
     carbohydrate: 47.7,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8171,7 +8171,7 @@ export default [
     unit: 'g',
     calories: 468,
     protein: 13.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 21.7,
     carbohydrate: 54.7,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8184,7 +8184,7 @@ export default [
     unit: 'g',
     calories: 471,
     protein: 7.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 15,
     carbohydrate: 77.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8197,7 +8197,7 @@ export default [
     unit: 'g',
     calories: 79,
     protein: 2.37,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 3.93,
     carbohydrate: 8.57,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8210,7 +8210,7 @@ export default [
     unit: 'g',
     calories: 70.67,
     protein: 2.1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 3.5,
     carbohydrate: 7.67,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8223,7 +8223,7 @@ export default [
     unit: 'g',
     calories: 173,
     protein: 1.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 9.1,
     carbohydrate: 21.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8236,7 +8236,7 @@ export default [
     unit: 'g',
     calories: 197,
     protein: 4.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 7.9,
     carbohydrate: 27.1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8249,7 +8249,7 @@ export default [
     unit: 'g',
     calories: 238,
     protein: 8.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 8.9,
     carbohydrate: 31.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8262,7 +8262,7 @@ export default [
     unit: 'g',
     calories: 94.5,
     protein: 1.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 3.9,
     carbohydrate: 13.15,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8275,7 +8275,7 @@ export default [
     unit: 'g',
     calories: 22.5,
     protein: 0.6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 1.0625,
     carbohydrate: 2.7125,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8288,7 +8288,7 @@ export default [
     unit: 'g',
     calories: 33.5,
     protein: 0.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.05,
     carbohydrate: 7.85,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8301,7 +8301,7 @@ export default [
     unit: 'g',
     calories: 179,
     protein: 6.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 7.2,
     carbohydrate: 22.4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8314,7 +8314,7 @@ export default [
     unit: 'g',
     calories: 83,
     protein: 1.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 4.9,
     carbohydrate: 7.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8327,7 +8327,7 @@ export default [
     unit: 'g',
     calories: 90,
     protein: 2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 4.4,
     carbohydrate: 10.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8340,7 +8340,7 @@ export default [
     unit: 'g',
     calories: 111,
     protein: 3.3,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 5.9,
     carbohydrate: 11.1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8353,7 +8353,7 @@ export default [
     unit: 'g',
     calories: 63,
     protein: 0.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 1,
     carbohydrate: 13.1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8366,7 +8366,7 @@ export default [
     unit: 'g',
     calories: 490,
     protein: 1.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 11.8,
     carbohydrate: 95.6,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8379,7 +8379,7 @@ export default [
     unit: 'g',
     calories: 716,
     protein: 27.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 35.2,
     carbohydrate: 73.6,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8392,7 +8392,7 @@ export default [
     unit: 'g',
     calories: 405,
     protein: 11.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 19.6,
     carbohydrate: 44.7,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8405,7 +8405,7 @@ export default [
     unit: 'g',
     calories: 331,
     protein: 10.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 9.8,
     carbohydrate: 49.7,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8418,7 +8418,7 @@ export default [
     unit: 'g',
     calories: 239,
     protein: 4.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 8,
     carbohydrate: 37.1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8431,7 +8431,7 @@ export default [
     unit: 'g',
     calories: 515,
     protein: 14.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 23.9,
     carbohydrate: 59.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8444,7 +8444,7 @@ export default [
     unit: 'g',
     calories: 582,
     protein: 22.3,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 35.6,
     carbohydrate: 44.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8457,7 +8457,7 @@ export default [
     unit: 'g',
     calories: 434,
     protein: 9.1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 15.8,
     carbohydrate: 63.4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8470,7 +8470,7 @@ export default [
     unit: 'g',
     calories: 235,
     protein: 10.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 3.8,
     carbohydrate: 40.7,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8483,7 +8483,7 @@ export default [
     unit: 'g',
     calories: 305,
     protein: 7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 3.9,
     carbohydrate: 59.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8496,7 +8496,7 @@ export default [
     unit: 'g',
     calories: 359,
     protein: 5.9,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 7,
     carbohydrate: 67.4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8509,7 +8509,7 @@ export default [
     unit: 'g',
     calories: 431,
     protein: 19.1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 14.7,
     carbohydrate: 57.1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8522,7 +8522,7 @@ export default [
     unit: 'g',
     calories: 768,
     protein: 33.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 30,
     carbohydrate: 93.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8535,7 +8535,7 @@ export default [
     unit: 'g',
     calories: 415,
     protein: 15.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 16.8,
     carbohydrate: 51.1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8548,7 +8548,7 @@ export default [
     unit: 'g',
     calories: 504,
     protein: 15,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 28.4,
     carbohydrate: 46.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8561,7 +8561,7 @@ export default [
     unit: 'g',
     calories: 484,
     protein: 15.1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 22.9,
     carbohydrate: 52.7,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8574,7 +8574,7 @@ export default [
     unit: 'g',
     calories: 63,
     protein: 1.9,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 4.067,
     carbohydrate: 4.53,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8587,7 +8587,7 @@ export default [
     unit: 'g',
     calories: 48.8,
     protein: 1.63,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 3.13,
     carbohydrate: 3.43,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8600,7 +8600,7 @@ export default [
     unit: 'g',
     calories: 75.3,
     protein: 1.82,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 3.5,
     carbohydrate: 8.99,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8613,7 +8613,7 @@ export default [
     unit: 'g',
     calories: 333,
     protein: 11.3,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 18.5,
     carbohydrate: 29.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8626,7 +8626,7 @@ export default [
     unit: 'g',
     calories: 259,
     protein: 8.9,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 11.3,
     carbohydrate: 30,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8639,7 +8639,7 @@ export default [
     unit: 'g',
     calories: 259,
     protein: 6.1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 10.8,
     carbohydrate: 34.4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8652,7 +8652,7 @@ export default [
     unit: 'g',
     calories: 300,
     protein: 18.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 9.1,
     carbohydrate: 36.6,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8665,7 +8665,7 @@ export default [
     unit: 'g',
     calories: 397,
     protein: 14.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 21.4,
     carbohydrate: 40.1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8678,7 +8678,7 @@ export default [
     unit: 'g',
     calories: 565,
     protein: 37.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 36.7,
     carbohydrate: 22.6,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8691,7 +8691,7 @@ export default [
     unit: 'g',
     calories: 432,
     protein: 33.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 26.6,
     carbohydrate: 15.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8704,7 +8704,7 @@ export default [
     unit: 'g',
     calories: 371,
     protein: 26.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 7.8,
     carbohydrate: 48.6,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8717,7 +8717,7 @@ export default [
     unit: 'g',
     calories: 405,
     protein: 30.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 21.7,
     carbohydrate: 20,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8730,7 +8730,7 @@ export default [
     unit: 'g',
     calories: 217,
     protein: 2.1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 12.6,
     carbohydrate: 24.4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8743,7 +8743,7 @@ export default [
     unit: 'g',
     calories: 124,
     protein: 11,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 2.8,
     carbohydrate: 14.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8756,7 +8756,7 @@ export default [
     unit: 'g',
     calories: 181,
     protein: 12.1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 8.4,
     carbohydrate: 14.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8769,7 +8769,7 @@ export default [
     unit: 'g',
     calories: 373,
     protein: 8.3,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 16.5,
     carbohydrate: 48.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8782,7 +8782,7 @@ export default [
     unit: 'g',
     calories: 120.5,
     protein: 2.25,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 1.25,
     carbohydrate: 25,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8795,7 +8795,7 @@ export default [
     unit: 'g',
     calories: 402,
     protein: 14.3,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.8,
     carbohydrate: 86.4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8808,7 +8808,7 @@ export default [
     unit: 'g',
     calories: 226,
     protein: 6.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 4.5,
     carbohydrate: 40.4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8821,7 +8821,7 @@ export default [
     unit: 'g',
     calories: 392,
     protein: 6.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 22.4,
     carbohydrate: 40.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8834,7 +8834,7 @@ export default [
     unit: 'g',
     calories: 379,
     protein: 6.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 12.6,
     carbohydrate: 62.4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8847,7 +8847,7 @@ export default [
     unit: 'g',
     calories: 390,
     protein: 6.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 12.9,
     carbohydrate: 64.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8860,7 +8860,7 @@ export default [
     unit: 'g',
     calories: 144,
     protein: 2.6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 7.1,
     carbohydrate: 17.6,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8873,7 +8873,7 @@ export default [
     unit: 'g',
     calories: 345,
     protein: 8.6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 10.8,
     carbohydrate: 53.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8886,7 +8886,7 @@ export default [
     unit: 'g',
     calories: 428,
     protein: 8.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 12.1,
     carbohydrate: 72.6,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8899,7 +8899,7 @@ export default [
     unit: 'g',
     calories: 363,
     protein: 4.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 11.7,
     carbohydrate: 59.7,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8912,7 +8912,7 @@ export default [
     unit: 'g',
     calories: 512,
     protein: 15.1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 16.9,
     carbohydrate: 73.4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8925,7 +8925,7 @@ export default [
     unit: 'g',
     calories: 404,
     protein: 10.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 6.1,
     carbohydrate: 76.1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8938,7 +8938,7 @@ export default [
     unit: 'g',
     calories: 495,
     protein: 16.1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 31.1,
     carbohydrate: 40.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8951,7 +8951,7 @@ export default [
     unit: 'g',
     calories: 80.5,
     protein: 2.95,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 4.85,
     carbohydrate: 6.15,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8964,7 +8964,7 @@ export default [
     unit: 'g',
     calories: 44.83,
     protein: 1.67,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 2.53,
     carbohydrate: 3.83,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8977,7 +8977,7 @@ export default [
     unit: 'g',
     calories: 149,
     protein: 1.9,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 1.3,
     carbohydrate: 32.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -8990,7 +8990,7 @@ export default [
     unit: 'g',
     calories: 186,
     protein: 7.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.6,
     carbohydrate: 37.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9003,7 +9003,7 @@ export default [
     unit: 'g',
     calories: 185,
     protein: 7.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.5,
     carbohydrate: 37.1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9016,7 +9016,7 @@ export default [
     unit: 'g',
     calories: 187,
     protein: 7.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.7,
     carbohydrate: 37.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9029,7 +9029,7 @@ export default [
     unit: 'g',
     calories: 320,
     protein: 13.6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 20.8,
     carbohydrate: 27.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9042,7 +9042,7 @@ export default [
     unit: 'g',
     calories: 320,
     protein: 13.6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 20.8,
     carbohydrate: 27.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9055,7 +9055,7 @@ export default [
     unit: 'g',
     calories: 850,
     protein: 18.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 31.8,
     carbohydrate: 121.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9068,7 +9068,7 @@ export default [
     unit: 'g',
     calories: 974,
     protein: 28.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 38.7,
     carbohydrate: 125.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9081,7 +9081,7 @@ export default [
     unit: 'g',
     calories: 453,
     protein: 0.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 13.8,
     carbohydrate: 82.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9094,7 +9094,7 @@ export default [
     unit: 'g',
     calories: 308,
     protein: 24.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 6.1,
     carbohydrate: 37.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9107,7 +9107,7 @@ export default [
     unit: 'g',
     calories: 239,
     protein: 4.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 5.8,
     carbohydrate: 40.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9120,7 +9120,7 @@ export default [
     unit: 'g',
     calories: 365,
     protein: 7.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 11.6,
     carbohydrate: 56.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9133,7 +9133,7 @@ export default [
     unit: 'g',
     calories: 546,
     protein: 10.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 25,
     carbohydrate: 70.3,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9146,7 +9146,7 @@ export default [
     unit: 'g',
     calories: 312,
     protein: 28.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 8.5,
     carbohydrate: 29,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9159,7 +9159,7 @@ export default [
     unit: 'g',
     calories: 241,
     protein: 1.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 6.5,
     carbohydrate: 44.4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9172,8 +9172,8 @@ export default [
     unit: 'g',
     calories: 386,
     protein: 0.1,
-    dietaryFiber: -999999,
-    fat: -999999,
+    dietaryFiber: 0,
+    fat: 0,
     carbohydrate: 97.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
   },
@@ -9185,7 +9185,7 @@ export default [
     unit: 'g',
     calories: 178,
     protein: 8.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 8.7,
     carbohydrate: 16.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9198,7 +9198,7 @@ export default [
     unit: 'g',
     calories: 190,
     protein: 5.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 5.7,
     carbohydrate: 29.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9211,7 +9211,7 @@ export default [
     unit: 'g',
     calories: 125,
     protein: 3.3,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 6.7,
     carbohydrate: 13.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9224,7 +9224,7 @@ export default [
     unit: 'g',
     calories: 434,
     protein: 5.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 26.3,
     carbohydrate: 45.4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9237,7 +9237,7 @@ export default [
     unit: 'g',
     calories: 694,
     protein: 22.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 17.9,
     carbohydrate: 109.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9250,7 +9250,7 @@ export default [
     unit: 'g',
     calories: 687,
     protein: 15.3,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 30.5,
     carbohydrate: 89.6,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9263,7 +9263,7 @@ export default [
     unit: 'g',
     calories: 325,
     protein: 6.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 11.6,
     carbohydrate: 49.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9276,7 +9276,7 @@ export default [
     unit: 'g',
     calories: 162,
     protein: 4.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.8,
     carbohydrate: 33.7,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9289,7 +9289,7 @@ export default [
     unit: 'g',
     calories: 324,
     protein: 7.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 20.2,
     carbohydrate: 27.4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9302,7 +9302,7 @@ export default [
     unit: 'g',
     calories: 270.5,
     protein: 4.05,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 14.4,
     carbohydrate: 31.1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9315,7 +9315,7 @@ export default [
     unit: 'g',
     calories: 514,
     protein: 8.1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 17.1,
     carbohydrate: 81.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9328,7 +9328,7 @@ export default [
     unit: 'g',
     calories: 181,
     protein: 12.6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 10.5,
     carbohydrate: 27.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9341,7 +9341,7 @@ export default [
     unit: 'g',
     calories: 313,
     protein: 20.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 7.2,
     carbohydrate: 41.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9354,7 +9354,7 @@ export default [
     unit: 'g',
     calories: 366,
     protein: 9.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 10.3,
     carbohydrate: 59.3,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9367,7 +9367,7 @@ export default [
     unit: 'g',
     calories: 404,
     protein: 6.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.5,
     carbohydrate: 94.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9380,7 +9380,7 @@ export default [
     unit: 'g',
     calories: 327,
     protein: 13.6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 12.2,
     carbohydrate: 40.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9393,7 +9393,7 @@ export default [
     unit: 'g',
     calories: 128,
     protein: 2.6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 1.7,
     carbohydrate: 25.6,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9406,7 +9406,7 @@ export default [
     unit: 'g',
     calories: 146,
     protein: 3.3,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 1.9,
     carbohydrate: 28.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9419,7 +9419,7 @@ export default [
     unit: 'g',
     calories: 114,
     protein: 3.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 2.6,
     carbohydrate: 19.4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9428,11 +9428,11 @@ export default [
     _id: '5b67bd80872b64005c889869',
     name: '古早味肉餅',
     flag: 'systemFood',
-    weight: -999999,
+    weight: 0,
     unit: '',
     calories: 179,
     protein: 1.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 3.8,
     carbohydrate: 26.3,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9445,7 +9445,7 @@ export default [
     unit: 'g',
     calories: 124,
     protein: 1.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.1,
     carbohydrate: 29.4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9458,7 +9458,7 @@ export default [
     unit: 'g',
     calories: 113,
     protein: 1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.1,
     carbohydrate: 27.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9471,7 +9471,7 @@ export default [
     unit: 'g',
     calories: 185,
     protein: 3.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 1,
     carbohydrate: 40.4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9484,7 +9484,7 @@ export default [
     unit: 'g',
     calories: 138,
     protein: 2.1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.8,
     carbohydrate: 30.4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9497,7 +9497,7 @@ export default [
     unit: 'g',
     calories: 367,
     protein: 11.3,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 7.2,
     carbohydrate: 65,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9510,7 +9510,7 @@ export default [
     unit: 'g',
     calories: 344,
     protein: 19.6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 22.4,
     carbohydrate: 15.3,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9523,7 +9523,7 @@ export default [
     unit: 'g',
     calories: 708,
     protein: 31.9,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 26.6,
     carbohydrate: 85.1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9536,7 +9536,7 @@ export default [
     unit: 'g',
     calories: 688,
     protein: 21.9,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 22.7,
     carbohydrate: 100.4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9549,7 +9549,7 @@ export default [
     unit: 'g',
     calories: 474,
     protein: 16,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 18,
     carbohydrate: 62,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9562,7 +9562,7 @@ export default [
     unit: 'g',
     calories: 519,
     protein: 22.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 19.6,
     carbohydrate: 60.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9575,7 +9575,7 @@ export default [
     unit: 'g',
     calories: 400,
     protein: 12.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 15.5,
     carbohydrate: 52.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9588,7 +9588,7 @@ export default [
     unit: 'g',
     calories: 634,
     protein: 17.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 26.3,
     carbohydrate: 82.4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9601,7 +9601,7 @@ export default [
     unit: 'g',
     calories: 211,
     protein: 6.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 7.3,
     carbohydrate: 28.4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9614,7 +9614,7 @@ export default [
     unit: 'g',
     calories: 563,
     protein: 31.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 36.7,
     carbohydrate: 28.1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9627,7 +9627,7 @@ export default [
     unit: 'g',
     calories: 177,
     protein: 6.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 8.1,
     carbohydrate: 19.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9640,7 +9640,7 @@ export default [
     unit: 'g',
     calories: 333,
     protein: 12.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 15.1,
     carbohydrate: 36.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9653,7 +9653,7 @@ export default [
     unit: 'g',
     calories: 568,
     protein: 13.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 6.6,
     carbohydrate: 117.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9666,7 +9666,7 @@ export default [
     unit: 'g',
     calories: 552,
     protein: 16.9,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 2.2,
     carbohydrate: 118.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9679,7 +9679,7 @@ export default [
     unit: 'g',
     calories: 247,
     protein: 3,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 1.3,
     carbohydrate: 55.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9692,7 +9692,7 @@ export default [
     unit: 'g',
     calories: 578,
     protein: 23.9,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 12.9,
     carbohydrate: 95.4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9705,7 +9705,7 @@ export default [
     unit: 'g',
     calories: 288,
     protein: 7.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 3,
     carbohydrate: 57.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9718,7 +9718,7 @@ export default [
     unit: 'g',
     calories: 331,
     protein: 0.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 10.8,
     carbohydrate: 59.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9731,7 +9731,7 @@ export default [
     unit: 'g',
     calories: 224,
     protein: 4.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 7.4,
     carbohydrate: 34.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9744,7 +9744,7 @@ export default [
     unit: 'g',
     calories: 176,
     protein: 3.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 8.7,
     carbohydrate: 21.6,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9757,7 +9757,7 @@ export default [
     unit: 'g',
     calories: 216,
     protein: 11.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 13,
     carbohydrate: 13.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9770,7 +9770,7 @@ export default [
     unit: 'g',
     calories: 265,
     protein: 3,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 14.8,
     carbohydrate: 29.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9783,7 +9783,7 @@ export default [
     unit: 'g',
     calories: 178,
     protein: 2.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 7,
     carbohydrate: 26.6,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9796,7 +9796,7 @@ export default [
     unit: 'g',
     calories: 155,
     protein: 3.1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 3.1,
     carbohydrate: 26.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9809,7 +9809,7 @@ export default [
     unit: 'g',
     calories: 165,
     protein: 2.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 6,
     carbohydrate: 24.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9822,7 +9822,7 @@ export default [
     unit: 'g',
     calories: 397,
     protein: 8.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 7.8,
     carbohydrate: 55.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9835,7 +9835,7 @@ export default [
     unit: 'g',
     calories: 170,
     protein: 3.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 5.1,
     carbohydrate: 27.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9848,7 +9848,7 @@ export default [
     unit: 'g',
     calories: 27.5,
     protein: 0.85,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 1.65,
     carbohydrate: 2.4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9861,7 +9861,7 @@ export default [
     unit: 'g',
     calories: 12.75,
     protein: 1.0125,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.6,
     carbohydrate: 0.8375,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9874,7 +9874,7 @@ export default [
     unit: 'g',
     calories: 19.83,
     protein: 1.55,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.916,
     carbohydrate: 1.33,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9887,7 +9887,7 @@ export default [
     unit: 'g',
     calories: 134,
     protein: 5.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 9.7,
     carbohydrate: 5.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9900,7 +9900,7 @@ export default [
     unit: 'g',
     calories: 27,
     protein: 2.25,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.975,
     carbohydrate: 2.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9913,7 +9913,7 @@ export default [
     unit: 'g',
     calories: 538,
     protein: 12.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 21.1,
     carbohydrate: 74.4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9926,7 +9926,7 @@ export default [
     unit: 'g',
     calories: 396,
     protein: 9.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 17.9,
     carbohydrate: 47.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9939,7 +9939,7 @@ export default [
     unit: 'g',
     calories: 314,
     protein: 9.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 19.3,
     carbohydrate: 24.4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9952,7 +9952,7 @@ export default [
     unit: 'g',
     calories: 579,
     protein: 26.6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 29.4,
     carbohydrate: 51.7,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9965,7 +9965,7 @@ export default [
     unit: 'g',
     calories: 747,
     protein: 23.3,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 20,
     carbohydrate: 119.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9978,7 +9978,7 @@ export default [
     unit: 'g',
     calories: 288,
     protein: 8.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 9.2,
     carbohydrate: 42.4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -9991,7 +9991,7 @@ export default [
     unit: 'g',
     calories: 441,
     protein: 24.6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 26,
     carbohydrate: 27.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10004,7 +10004,7 @@ export default [
     unit: 'g',
     calories: 377,
     protein: 5.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 21.3,
     carbohydrate: 41.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10017,7 +10017,7 @@ export default [
     unit: 'g',
     calories: 174,
     protein: 5.3,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 2.4,
     carbohydrate: 35.7,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10030,7 +10030,7 @@ export default [
     unit: 'g',
     calories: 395,
     protein: 11.6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 9,
     carbohydrate: 67.4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10043,7 +10043,7 @@ export default [
     unit: 'g',
     calories: 209,
     protein: 9.9,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 9.5,
     carbohydrate: 21.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10056,7 +10056,7 @@ export default [
     unit: 'g',
     calories: 248,
     protein: 7.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 11.7,
     carbohydrate: 29.1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10069,7 +10069,7 @@ export default [
     unit: 'g',
     calories: 324,
     protein: 7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 14.5,
     carbohydrate: 39.3,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10082,7 +10082,7 @@ export default [
     unit: 'g',
     calories: 274,
     protein: 3.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.3,
     carbohydrate: 65.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10095,7 +10095,7 @@ export default [
     unit: 'g',
     calories: 96,
     protein: 5.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 7,
     carbohydrate: 2.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10108,9 +10108,9 @@ export default [
     unit: 'g',
     calories: 36.6,
     protein: 3.96,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 2.22,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
   },
   {
@@ -10121,7 +10121,7 @@ export default [
     unit: 'g',
     calories: 272,
     protein: 8.9,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 1.3,
     carbohydrate: 56.4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10134,7 +10134,7 @@ export default [
     unit: 'g',
     calories: 291,
     protein: 2.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.7,
     carbohydrate: 67.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10147,7 +10147,7 @@ export default [
     unit: 'g',
     calories: 335,
     protein: 2.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.7,
     carbohydrate: 78.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10160,7 +10160,7 @@ export default [
     unit: 'g',
     calories: 278,
     protein: 4.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 1.9,
     carbohydrate: 60.6,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10173,7 +10173,7 @@ export default [
     unit: 'g',
     calories: 29.33,
     protein: 0.3,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.6,
     carbohydrate: 5.93,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10185,8 +10185,8 @@ export default [
     weight: 370,
     unit: 'g',
     calories: 230,
-    protein: -999999,
-    dietaryFiber: -999999,
+    protein: 0,
+    dietaryFiber: 0,
     fat: 1.5,
     carbohydrate: 55.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10198,9 +10198,9 @@ export default [
     weight: 328,
     unit: 'g',
     calories: 181,
-    protein: -999999,
-    dietaryFiber: -999999,
-    fat: -999999,
+    protein: 0,
+    dietaryFiber: 0,
+    fat: 0,
     carbohydrate: 45.3,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
   },
@@ -10212,7 +10212,7 @@ export default [
     unit: 'g',
     calories: 219,
     protein: 5.1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 5.7,
     carbohydrate: 38.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10225,7 +10225,7 @@ export default [
     unit: 'g',
     calories: 780,
     protein: 27.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 11.8,
     carbohydrate: 143,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10238,7 +10238,7 @@ export default [
     unit: 'g',
     calories: 126,
     protein: 2.6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 7,
     carbohydrate: 13.3,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10251,7 +10251,7 @@ export default [
     unit: 'g',
     calories: 236,
     protein: 3.3,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 9.8,
     carbohydrate: 33.6,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10264,7 +10264,7 @@ export default [
     unit: 'g',
     calories: 29.5,
     protein: 0.55,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.4,
     carbohydrate: 5.85,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10277,7 +10277,7 @@ export default [
     unit: 'g',
     calories: 68,
     protein: 0.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 2.2,
     carbohydrate: 11.4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10290,7 +10290,7 @@ export default [
     unit: 'g',
     calories: 347,
     protein: 4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 15.6,
     carbohydrate: 47.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10303,7 +10303,7 @@ export default [
     unit: 'g',
     calories: 192,
     protein: 4.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 7.9,
     carbohydrate: 26.1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10316,7 +10316,7 @@ export default [
     unit: 'g',
     calories: 213,
     protein: 9.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 7.5,
     carbohydrate: 27.1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10329,7 +10329,7 @@ export default [
     unit: 'g',
     calories: 371,
     protein: 13,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 11.9,
     carbohydrate: 53.3,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10342,7 +10342,7 @@ export default [
     unit: 'g',
     calories: 437,
     protein: 14.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 32.8,
     carbohydrate: 20,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10355,7 +10355,7 @@ export default [
     unit: 'g',
     calories: 205,
     protein: 7.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 11.8,
     carbohydrate: 16.7,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10368,7 +10368,7 @@ export default [
     unit: 'g',
     calories: 244,
     protein: 9.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 7.9,
     carbohydrate: 34.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10381,7 +10381,7 @@ export default [
     unit: 'g',
     calories: 379,
     protein: 13.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 8.3,
     carbohydrate: 61.3,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10394,7 +10394,7 @@ export default [
     unit: 'g',
     calories: 218,
     protein: 9.6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 14.3,
     carbohydrate: 13,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10407,7 +10407,7 @@ export default [
     unit: 'g',
     calories: 416,
     protein: 10,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 17.5,
     carbohydrate: 55.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10420,7 +10420,7 @@ export default [
     unit: 'g',
     calories: 296,
     protein: 5.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 5.7,
     carbohydrate: 54.4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10433,7 +10433,7 @@ export default [
     unit: 'g',
     calories: 26.67,
     protein: 2.17,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 1.97,
     carbohydrate: 0.1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10446,7 +10446,7 @@ export default [
     unit: 'g',
     calories: 228,
     protein: 10.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 18,
     carbohydrate: 8.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10459,7 +10459,7 @@ export default [
     unit: 'g',
     calories: 64,
     protein: 6.9,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 4.3,
     carbohydrate: 0.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10472,7 +10472,7 @@ export default [
     unit: 'g',
     calories: 302,
     protein: 13.1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 9.2,
     carbohydrate: 40.6,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10485,7 +10485,7 @@ export default [
     unit: 'g',
     calories: 423,
     protein: 9.3,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 3.2,
     carbohydrate: 88.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10498,7 +10498,7 @@ export default [
     unit: 'g',
     calories: 216,
     protein: 2.6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 9.9,
     carbohydrate: 32.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10511,7 +10511,7 @@ export default [
     unit: 'g',
     calories: 50.5,
     protein: 0.25,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.1,
     carbohydrate: 12.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10524,7 +10524,7 @@ export default [
     unit: 'g',
     calories: 276,
     protein: 3.9,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 11,
     carbohydrate: 37,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10537,7 +10537,7 @@ export default [
     unit: 'g',
     calories: 295,
     protein: 11.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 16.6,
     carbohydrate: 28.6,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10550,7 +10550,7 @@ export default [
     unit: 'g',
     calories: 246,
     protein: 6.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 13.9,
     carbohydrate: 24.3,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10563,8 +10563,8 @@ export default [
     unit: 'g',
     calories: 36,
     protein: 0.6,
-    dietaryFiber: -999999,
-    fat: -999999,
+    dietaryFiber: 0,
+    fat: 0,
     carbohydrate: 9.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
   },
@@ -10576,7 +10576,7 @@ export default [
     unit: 'g',
     calories: 63.5,
     protein: 1.15,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 2.65,
     carbohydrate: 8.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10589,7 +10589,7 @@ export default [
     unit: 'g',
     calories: 120,
     protein: 3,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 4.6,
     carbohydrate: 17.4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10602,8 +10602,8 @@ export default [
     unit: 'g',
     calories: 69,
     protein: 0.1,
-    dietaryFiber: -999999,
-    fat: -999999,
+    dietaryFiber: 0,
+    fat: 0,
     carbohydrate: 17.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
   },
@@ -10615,7 +10615,7 @@ export default [
     unit: 'g',
     calories: 93,
     protein: 1.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.7,
     carbohydrate: 20.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10628,7 +10628,7 @@ export default [
     unit: 'g',
     calories: 246,
     protein: 1.3,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.2,
     carbohydrate: 58.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10641,7 +10641,7 @@ export default [
     unit: 'g',
     calories: 201,
     protein: 9.1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 3,
     carbohydrate: 33.6,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10654,7 +10654,7 @@ export default [
     unit: 'g',
     calories: 291,
     protein: 9.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 13.8,
     carbohydrate: 31,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10667,7 +10667,7 @@ export default [
     unit: 'g',
     calories: 494,
     protein: 23.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 11,
     carbohydrate: 76.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10680,7 +10680,7 @@ export default [
     unit: 'g',
     calories: 388,
     protein: 13.6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 11,
     carbohydrate: 59.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10693,7 +10693,7 @@ export default [
     unit: 'g',
     calories: 434,
     protein: 16.6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 10.5,
     carbohydrate: 69.1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10706,7 +10706,7 @@ export default [
     unit: 'g',
     calories: 678,
     protein: 45.1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 20.7,
     carbohydrate: 78.1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10719,7 +10719,7 @@ export default [
     unit: 'g',
     calories: 307,
     protein: 1.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 6.7,
     carbohydrate: 60.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10732,7 +10732,7 @@ export default [
     unit: 'g',
     calories: 740,
     protein: 43.6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 26.2,
     carbohydrate: 78.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10745,7 +10745,7 @@ export default [
     unit: 'g',
     calories: 410,
     protein: 5.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 21.8,
     carbohydrate: 47.3,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10758,7 +10758,7 @@ export default [
     unit: 'g',
     calories: 198,
     protein: 4.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 6.2,
     carbohydrate: 30.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10771,7 +10771,7 @@ export default [
     unit: 'g',
     calories: 584,
     protein: 32,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 17.4,
     carbohydrate: 71.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10784,7 +10784,7 @@ export default [
     unit: 'g',
     calories: 238,
     protein: 10.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 17.2,
     carbohydrate: 10.6,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10797,7 +10797,7 @@ export default [
     unit: 'g',
     calories: 93,
     protein: 4.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 5.1,
     carbohydrate: 7.3,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10810,7 +10810,7 @@ export default [
     unit: 'g',
     calories: 208,
     protein: 9.1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 2.2,
     carbohydrate: 37.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10823,7 +10823,7 @@ export default [
     unit: 'g',
     calories: 410,
     protein: 6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 1.3,
     carbohydrate: 94.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10836,7 +10836,7 @@ export default [
     unit: 'g',
     calories: 234,
     protein: 1.9,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 7.9,
     carbohydrate: 39.1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10849,7 +10849,7 @@ export default [
     unit: 'g',
     calories: 61,
     protein: 2.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.5,
     carbohydrate: 11.3,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10862,7 +10862,7 @@ export default [
     unit: 'g',
     calories: 13.56,
     protein: 0.1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.74,
     carbohydrate: 1.62,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10875,7 +10875,7 @@ export default [
     unit: 'g',
     calories: 22.6,
     protein: 0.36,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 1.08,
     carbohydrate: 3.06,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10888,7 +10888,7 @@ export default [
     unit: 'g',
     calories: 248,
     protein: 3.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 7.4,
     carbohydrate: 41.6,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10901,7 +10901,7 @@ export default [
     unit: 'g',
     calories: 45.5,
     protein: 0.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 1.55,
     carbohydrate: 7.45,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10914,8 +10914,8 @@ export default [
     unit: 'g',
     calories: 3.81,
     protein: 0.038,
-    dietaryFiber: -999999,
-    fat: -999999,
+    dietaryFiber: 0,
+    fat: 0,
     carbohydrate: 0.91,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
   },
@@ -10927,7 +10927,7 @@ export default [
     unit: 'g',
     calories: 77,
     protein: 1.15,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 2.7,
     carbohydrate: 11.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10940,7 +10940,7 @@ export default [
     unit: 'g',
     calories: 30,
     protein: 0.52,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.36,
     carbohydrate: 6.16,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10953,8 +10953,8 @@ export default [
     unit: 'g',
     calories: 30.5,
     protein: 0.2,
-    dietaryFiber: -999999,
-    fat: -999999,
+    dietaryFiber: 0,
+    fat: 0,
     carbohydrate: 7.4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
   },
@@ -10966,7 +10966,7 @@ export default [
     unit: 'g',
     calories: 12.2,
     protein: 0.14,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.02,
     carbohydrate: 2.84,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10979,7 +10979,7 @@ export default [
     unit: 'g',
     calories: 456,
     protein: 14.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 12.4,
     carbohydrate: 69.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -10992,7 +10992,7 @@ export default [
     unit: 'g',
     calories: 266,
     protein: 15,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 17.3,
     carbohydrate: 12.3,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11005,7 +11005,7 @@ export default [
     unit: 'g',
     calories: 251,
     protein: 22.9,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 13.1,
     carbohydrate: 11.3,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11018,7 +11018,7 @@ export default [
     unit: 'g',
     calories: 252,
     protein: 18.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 13.6,
     carbohydrate: 14.1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11031,7 +11031,7 @@ export default [
     unit: 'g',
     calories: 649,
     protein: 10.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 24.1,
     carbohydrate: 96.6,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11044,7 +11044,7 @@ export default [
     unit: 'g',
     calories: 548,
     protein: 28.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 21.9,
     carbohydrate: 56.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11057,7 +11057,7 @@ export default [
     unit: 'g',
     calories: 584,
     protein: 23.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 30.5,
     carbohydrate: 55.6,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11070,7 +11070,7 @@ export default [
     unit: 'g',
     calories: 304,
     protein: 11.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 12.1,
     carbohydrate: 34.6,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11083,7 +11083,7 @@ export default [
     unit: 'g',
     calories: 196,
     protein: 4.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 4.3,
     carbohydrate: 35.1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11096,7 +11096,7 @@ export default [
     unit: 'g',
     calories: 428,
     protein: 12.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 1.3,
     carbohydrate: 92.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11109,7 +11109,7 @@ export default [
     unit: 'g',
     calories: 120,
     protein: 2.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 5.2,
     carbohydrate: 15.6,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11122,7 +11122,7 @@ export default [
     unit: 'g',
     calories: 169,
     protein: 2.3,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 8.7,
     carbohydrate: 20.6,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11135,7 +11135,7 @@ export default [
     unit: 'g',
     calories: 105,
     protein: 1.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 5.6,
     carbohydrate: 14,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11148,7 +11148,7 @@ export default [
     unit: 'g',
     calories: 307,
     protein: 9.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 10,
     carbohydrate: 45.4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11161,7 +11161,7 @@ export default [
     unit: 'g',
     calories: 188,
     protein: 2.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 9.7,
     carbohydrate: 22.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11174,7 +11174,7 @@ export default [
     unit: 'g',
     calories: 88,
     protein: 4.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 7.2,
     carbohydrate: 14.6,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11187,7 +11187,7 @@ export default [
     unit: 'g',
     calories: 110,
     protein: 0.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 5.1,
     carbohydrate: 15.6,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11200,7 +11200,7 @@ export default [
     unit: 'g',
     calories: 869,
     protein: 42.9,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 40.7,
     carbohydrate: 81.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11213,7 +11213,7 @@ export default [
     unit: 'g',
     calories: 529,
     protein: 19.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 15.1,
     carbohydrate: 79.1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11226,7 +11226,7 @@ export default [
     unit: 'g',
     calories: 545,
     protein: 9,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 16.3,
     carbohydrate: 89,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11239,7 +11239,7 @@ export default [
     unit: 'g',
     calories: 680,
     protein: 21.3,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 26.4,
     carbohydrate: 87.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11252,7 +11252,7 @@ export default [
     unit: 'g',
     calories: 611,
     protein: 31.1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 18,
     carbohydrate: 86.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11265,7 +11265,7 @@ export default [
     unit: 'g',
     calories: 677,
     protein: 12.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 24.5,
     carbohydrate: 100.4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11278,7 +11278,7 @@ export default [
     unit: 'g',
     calories: 380,
     protein: 13.6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 11.9,
     carbohydrate: 54.4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11291,7 +11291,7 @@ export default [
     unit: 'g',
     calories: 237,
     protein: 6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 12.5,
     carbohydrate: 26,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11304,7 +11304,7 @@ export default [
     unit: 'g',
     calories: 408,
     protein: 6.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 3.7,
     carbohydrate: 86.7,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11317,7 +11317,7 @@ export default [
     unit: 'g',
     calories: 307,
     protein: 8.3,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 9.3,
     carbohydrate: 49.3,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11330,7 +11330,7 @@ export default [
     unit: 'g',
     calories: 192,
     protein: 6.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 3.7,
     carbohydrate: 33.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11343,7 +11343,7 @@ export default [
     unit: 'g',
     calories: 308,
     protein: 0.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.1,
     carbohydrate: 82.4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11355,9 +11355,9 @@ export default [
     weight: 339,
     unit: 'g',
     calories: 237,
-    protein: -999999,
-    dietaryFiber: -999999,
-    fat: -999999,
+    protein: 0,
+    dietaryFiber: 0,
+    fat: 0,
     carbohydrate: 59.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
   },
@@ -11369,7 +11369,7 @@ export default [
     unit: 'g',
     calories: 462,
     protein: 9.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 20.9,
     carbohydrate: 58.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11382,7 +11382,7 @@ export default [
     unit: 'g',
     calories: 463,
     protein: 6.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 18.3,
     carbohydrate: 69,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11395,7 +11395,7 @@ export default [
     unit: 'g',
     calories: 89,
     protein: 0.1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 3.8,
     carbohydrate: 13.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11408,8 +11408,8 @@ export default [
     unit: 'g',
     calories: 121,
     protein: 1.4,
-    dietaryFiber: -999999,
-    fat: -999999,
+    dietaryFiber: 0,
+    fat: 0,
     carbohydrate: 29.6,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
   },
@@ -11421,7 +11421,7 @@ export default [
     unit: 'g',
     calories: 30.33,
     protein: 0.77,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.87,
     carbohydrate: 4.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11434,7 +11434,7 @@ export default [
     unit: 'g',
     calories: 30,
     protein: 0.1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.03,
     carbohydrate: 7.33,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11447,7 +11447,7 @@ export default [
     unit: 'g',
     calories: 71,
     protein: 1.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 2,
     carbohydrate: 11.4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11460,7 +11460,7 @@ export default [
     unit: 'g',
     calories: 62,
     protein: 1.6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 1.8,
     carbohydrate: 10,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11473,7 +11473,7 @@ export default [
     unit: 'g',
     calories: 59,
     protein: 0.3,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.2,
     carbohydrate: 14.1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11486,7 +11486,7 @@ export default [
     unit: 'g',
     calories: 111,
     protein: 4.3,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 6.7,
     carbohydrate: 8.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11499,7 +11499,7 @@ export default [
     unit: 'g',
     calories: 33,
     protein: 1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 1.9,
     carbohydrate: 2.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11512,7 +11512,7 @@ export default [
     unit: 'g',
     calories: 71,
     protein: 1.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 1.7,
     carbohydrate: 12.3,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11525,7 +11525,7 @@ export default [
     unit: 'g',
     calories: 50.5,
     protein: 0.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.05,
     carbohydrate: 12.6,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11538,7 +11538,7 @@ export default [
     unit: 'g',
     calories: 167,
     protein: 6.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 11,
     carbohydrate: 10.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11551,8 +11551,8 @@ export default [
     unit: 'g',
     calories: 10,
     protein: 0.2,
-    dietaryFiber: -999999,
-    fat: -999999,
+    dietaryFiber: 0,
+    fat: 0,
     carbohydrate: 3.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
   },
@@ -11564,7 +11564,7 @@ export default [
     unit: 'g',
     calories: 865,
     protein: 29.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 39.6,
     carbohydrate: 95.3,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11577,7 +11577,7 @@ export default [
     unit: 'g',
     calories: 799,
     protein: 27.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 44.3,
     carbohydrate: 71.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11590,7 +11590,7 @@ export default [
     unit: 'g',
     calories: 514,
     protein: 9.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 19.6,
     carbohydrate: 74.1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11603,7 +11603,7 @@ export default [
     unit: 'g',
     calories: 416,
     protein: 6.3,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 13.1,
     carbohydrate: 67.1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11616,7 +11616,7 @@ export default [
     unit: 'g',
     calories: 327,
     protein: 11.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 3.2,
     carbohydrate: 64,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11629,7 +11629,7 @@ export default [
     unit: 'g',
     calories: 607,
     protein: 23.3,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 28.6,
     carbohydrate: 66.3,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11642,7 +11642,7 @@ export default [
     unit: 'g',
     calories: 850,
     protein: 47.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 36.9,
     carbohydrate: 81.4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11655,7 +11655,7 @@ export default [
     unit: 'g',
     calories: 127,
     protein: 8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 6,
     carbohydrate: 10,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11668,7 +11668,7 @@ export default [
     unit: 'g',
     calories: 358,
     protein: 14.1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 1.2,
     carbohydrate: 73.1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11681,7 +11681,7 @@ export default [
     unit: 'g',
     calories: 317,
     protein: 11.6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 16.9,
     carbohydrate: 28.4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11694,7 +11694,7 @@ export default [
     unit: 'g',
     calories: 315,
     protein: 8.9,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 20.8,
     carbohydrate: 23.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11707,7 +11707,7 @@ export default [
     unit: 'g',
     calories: 911,
     protein: 31.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 44.9,
     carbohydrate: 92.6,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11720,7 +11720,7 @@ export default [
     unit: 'g',
     calories: 251,
     protein: 10.3,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 8,
     carbohydrate: 34,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11733,7 +11733,7 @@ export default [
     unit: 'g',
     calories: 366,
     protein: 11.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 22.9,
     carbohydrate: 28,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11746,7 +11746,7 @@ export default [
     unit: 'g',
     calories: 222,
     protein: 3.6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 7.4,
     carbohydrate: 34.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11759,7 +11759,7 @@ export default [
     unit: 'g',
     calories: 561,
     protein: 43.1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 41.8,
     carbohydrate: 0.1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11772,7 +11772,7 @@ export default [
     unit: 'g',
     calories: 111,
     protein: 6.9,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 8.8,
     carbohydrate: 0.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11785,7 +11785,7 @@ export default [
     unit: 'g',
     calories: 176,
     protein: 12.1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 13.1,
     carbohydrate: 1.3,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11798,9 +11798,9 @@ export default [
     unit: 'g',
     calories: 165,
     protein: 14.3,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 11.5,
-    carbohydrate: -999999,
+    carbohydrate: 0,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
   },
   {
@@ -11811,7 +11811,7 @@ export default [
     unit: 'g',
     calories: 69,
     protein: 8.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 3.5,
     carbohydrate: 0.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11824,7 +11824,7 @@ export default [
     unit: 'g',
     calories: 349,
     protein: 12.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 17.9,
     carbohydrate: 35.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11837,7 +11837,7 @@ export default [
     unit: 'g',
     calories: 142,
     protein: 15.9,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 3.7,
     carbohydrate: 10.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11850,7 +11850,7 @@ export default [
     unit: 'g',
     calories: 263,
     protein: 26.9,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 12.1,
     carbohydrate: 10.3,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11863,7 +11863,7 @@ export default [
     unit: 'g',
     calories: 84,
     protein: 5.6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 2.1,
     carbohydrate: 10.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11876,7 +11876,7 @@ export default [
     unit: 'g',
     calories: 147,
     protein: 8.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 9.8,
     carbohydrate: 6.3,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11889,7 +11889,7 @@ export default [
     unit: 'g',
     calories: 531,
     protein: 18,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 26.2,
     carbohydrate: 56.6,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11902,7 +11902,7 @@ export default [
     unit: 'g',
     calories: 253,
     protein: 5.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 2,
     carbohydrate: 53.4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11915,7 +11915,7 @@ export default [
     unit: 'g',
     calories: 232,
     protein: 3.1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.2,
     carbohydrate: 56.1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11928,7 +11928,7 @@ export default [
     unit: 'g',
     calories: 254,
     protein: 12.6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.5,
     carbohydrate: 51.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11941,7 +11941,7 @@ export default [
     unit: 'g',
     calories: 328,
     protein: 3.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 1.6,
     carbohydrate: 74.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11954,7 +11954,7 @@ export default [
     unit: 'g',
     calories: 271,
     protein: 5.9,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.5,
     carbohydrate: 61.7,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11967,7 +11967,7 @@ export default [
     unit: 'g',
     calories: 172,
     protein: 7.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 3.8,
     carbohydrate: 28,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11980,7 +11980,7 @@ export default [
     unit: 'g',
     calories: 142,
     protein: 8.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 4.6,
     carbohydrate: 16.7,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -11993,7 +11993,7 @@ export default [
     unit: 'g',
     calories: 319,
     protein: 3,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 21.7,
     carbohydrate: 30.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -12006,7 +12006,7 @@ export default [
     unit: 'g',
     calories: 209,
     protein: 5.3,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 12.2,
     carbohydrate: 23.4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -12019,7 +12019,7 @@ export default [
     unit: 'g',
     calories: 128,
     protein: 10.6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 2.9,
     carbohydrate: 14.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -12032,7 +12032,7 @@ export default [
     unit: 'g',
     calories: 147,
     protein: 5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 7.7,
     carbohydrate: 14.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -12045,7 +12045,7 @@ export default [
     unit: 'g',
     calories: 580,
     protein: 31.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 24.5,
     carbohydrate: 57.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -12058,7 +12058,7 @@ export default [
     unit: 'g',
     calories: 364,
     protein: 13.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 8,
     carbohydrate: 57.4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -12071,7 +12071,7 @@ export default [
     unit: 'g',
     calories: 548,
     protein: 21,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 9.3,
     carbohydrate: 96.1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -12084,7 +12084,7 @@ export default [
     unit: 'g',
     calories: 343,
     protein: 33.1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 9.7,
     carbohydrate: 30.7,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -12097,7 +12097,7 @@ export default [
     unit: 'g',
     calories: 308,
     protein: 12.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 13.4,
     carbohydrate: 33.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -12110,7 +12110,7 @@ export default [
     unit: 'g',
     calories: 188,
     protein: 14.9,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 13.5,
     carbohydrate: 0.7,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -12123,7 +12123,7 @@ export default [
     unit: 'g',
     calories: 257,
     protein: 8.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 11.4,
     carbohydrate: 30.3,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -12136,7 +12136,7 @@ export default [
     unit: 'g',
     calories: 347,
     protein: 6.3,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 19.5,
     carbohydrate: 38.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -12149,7 +12149,7 @@ export default [
     unit: 'g',
     calories: 459,
     protein: 21.9,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 20.5,
     carbohydrate: 47.3,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -12162,7 +12162,7 @@ export default [
     unit: 'g',
     calories: 231,
     protein: 4.1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 9.9,
     carbohydrate: 30.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -12175,7 +12175,7 @@ export default [
     unit: 'g',
     calories: 333,
     protein: 8.1,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 11.1,
     carbohydrate: 49.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -12188,7 +12188,7 @@ export default [
     unit: 'g',
     calories: 444,
     protein: 17.4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 17.7,
     carbohydrate: 52.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -12201,7 +12201,7 @@ export default [
     unit: 'g',
     calories: 94.5,
     protein: 5.25,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 6.1,
     carbohydrate: 4.85,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -12214,7 +12214,7 @@ export default [
     unit: 'g',
     calories: 82,
     protein: 2.05,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 1.9,
     carbohydrate: 14.4,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -12227,7 +12227,7 @@ export default [
     unit: 'g',
     calories: 276,
     protein: 5.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 14.8,
     carbohydrate: 30,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -12240,7 +12240,7 @@ export default [
     unit: 'g',
     calories: 448,
     protein: 10.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 1.1,
     carbohydrate: 100.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -12253,7 +12253,7 @@ export default [
     unit: 'g',
     calories: 17.89,
     protein: 0.28,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 1.27,
     carbohydrate: 1.36,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -12266,7 +12266,7 @@ export default [
     unit: 'g',
     calories: 158,
     protein: 2.9,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 6.3,
     carbohydrate: 25.3,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -12279,7 +12279,7 @@ export default [
     unit: 'g',
     calories: 310,
     protein: 6.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 11.5,
     carbohydrate: 45.5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -12292,7 +12292,7 @@ export default [
     unit: 'g',
     calories: 211,
     protein: 4.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 11.7,
     carbohydrate: 23.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -12305,7 +12305,7 @@ export default [
     unit: 'g',
     calories: 49,
     protein: 0.95,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 1.7,
     carbohydrate: 7.45,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -12318,7 +12318,7 @@ export default [
     unit: 'g',
     calories: 135,
     protein: 2.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 7.2,
     carbohydrate: 15,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -12331,7 +12331,7 @@ export default [
     unit: 'g',
     calories: 159,
     protein: 7.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 3.6,
     carbohydrate: 24.2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -12344,7 +12344,7 @@ export default [
     unit: 'g',
     calories: 97,
     protein: 5.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 2.6,
     carbohydrate: 17.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -12357,7 +12357,7 @@ export default [
     unit: 'g',
     calories: 129,
     protein: 2.9,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 2.9,
     carbohydrate: 23,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -12370,7 +12370,7 @@ export default [
     unit: 'g',
     calories: 30.6,
     protein: 3.68,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.44,
     carbohydrate: 2.98,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -12383,7 +12383,7 @@ export default [
     unit: 'g',
     calories: 442,
     protein: 24,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 4.4,
     carbohydrate: 74.3,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -12396,7 +12396,7 @@ export default [
     unit: 'g',
     calories: 1110,
     protein: 36.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 48.2,
     carbohydrate: 134.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -12409,7 +12409,7 @@ export default [
     unit: 'g',
     calories: 26.5,
     protein: 1.05,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.75,
     carbohydrate: 3.7,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -12422,7 +12422,7 @@ export default [
     unit: 'g',
     calories: 85.7,
     protein: 2.47,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 17,
     carbohydrate: 6.03,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -12435,7 +12435,7 @@ export default [
     unit: 'g',
     calories: 123.5,
     protein: 5.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 8.15,
     carbohydrate: 7.05,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -12448,7 +12448,7 @@ export default [
     unit: 'g',
     calories: 529,
     protein: 19.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 26.2,
     carbohydrate: 51.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -12461,7 +12461,7 @@ export default [
     unit: 'g',
     calories: 400,
     protein: 11.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 2.7,
     carbohydrate: 82,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -12474,7 +12474,7 @@ export default [
     unit: 'g',
     calories: 102,
     protein: 2.8,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 4.7,
     carbohydrate: 12.3,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -12487,7 +12487,7 @@ export default [
     unit: 'g',
     calories: 260,
     protein: 6.7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.6,
     carbohydrate: 58.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -12500,7 +12500,7 @@ export default [
     unit: 'g',
     calories: 280,
     protein: 10.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.6,
     carbohydrate: 60.8,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -12513,7 +12513,7 @@ export default [
     unit: 'g',
     calories: 545,
     protein: 16.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 10.1,
     carbohydrate: 98.6,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -12526,7 +12526,7 @@ export default [
     unit: 'g',
     calories: 139,
     protein: 1.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 2.3,
     carbohydrate: 28,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -12539,7 +12539,7 @@ export default [
     unit: 'g',
     calories: 76,
     protein: 3.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 8.6,
     carbohydrate: 7.9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -12552,7 +12552,7 @@ export default [
     unit: 'g',
     calories: 46,
     protein: 5.2,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 0.2,
     carbohydrate: 6,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -12565,7 +12565,7 @@ export default [
     unit: 'g',
     calories: 66.5,
     protein: 1.15,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 4.9,
     carbohydrate: 9.85,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -12578,7 +12578,7 @@ export default [
     unit: 'g',
     calories: 246,
     protein: 4,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 6.3,
     carbohydrate: 44,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -12591,7 +12591,7 @@ export default [
     unit: 'g',
     calories: 162,
     protein: 13.5,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 11.5,
     carbohydrate: 1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem20009.jpg'
@@ -12656,7 +12656,7 @@ export default [
     unit: 'g',
     calories: 196,
     protein: 19,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 10,
     carbohydrate: 5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem20026.jpg'
@@ -12682,7 +12682,7 @@ export default [
     unit: 'g',
     calories: 241,
     protein: 14,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 17,
     carbohydrate: 9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/foodItem20041.jpg'
@@ -12748,7 +12748,7 @@ export default [
     calories: 26,
     protein: 2,
     dietaryFiber: 2,
-    fat: -999999,
+    fat: 0,
     carbohydrate: 5,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
   },
@@ -12786,7 +12786,7 @@ export default [
     unit: 'g',
     calories: 69,
     protein: 7,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 5,
     carbohydrate: 1,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -13047,7 +13047,7 @@ export default [
     calories: 56,
     protein: 4,
     dietaryFiber: 5,
-    fat: -999999,
+    fat: 0,
     carbohydrate: 9,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
   },
@@ -13072,7 +13072,7 @@ export default [
     unit: 'g',
     calories: 104,
     protein: 9,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 7,
     carbohydrate: 2,
     iconUrl: 'https://idiabcare.compal-health.com/images/foodItem/food@defalut.png'
@@ -13124,7 +13124,7 @@ export default [
     unit: 'g',
     calories: 969,
     protein: 35.6,
-    dietaryFiber: -999999,
+    dietaryFiber: 0,
     fat: 51.2,
     carbohydrate: 88,
     iconUrl: 'https://idiabcare.compal-health.comfoodItem13003.png'
